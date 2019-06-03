@@ -7,6 +7,7 @@ import numpy as np
 import tensorflow as tf
 import sys
 import glove
+import argparse
 # ----------------------------------------------------------------------------
 
 maxlen0 = 20
@@ -16,7 +17,6 @@ batch_size = 4
 train_batch_size = 4
 n_states = 200
 classes = 2
-train_needed = True
 train_epochs = 15
 # ----------------------------------------------------------------------------
 
@@ -278,6 +278,15 @@ class TF:
         return res
 
 if __name__ == '__main__':
+    
+    arg_parser = argparse.ArgumentParser()
+    arg_parser.add_argument(
+        '--mode',
+        choices=['train', 'infer'],
+        default='infer',
+        help='Run mode')
+    args = arg_parser.parse_args()
+   
 
     if True:
     
@@ -308,7 +317,7 @@ if __name__ == '__main__':
         print(y_dev.shape)
         print('----------------')
 
-        if train_needed:
+        if args.mode == 'train':
             train(sess, env, X_train_qu, X_train_col, y_train, X_train_qu, X_train_col, y_train, epochs=train_epochs, load=False,
                           shuffle=True, batch_size=batch_size, name='word_model')
             evaluate(sess, env, X_test_qu, X_test_col, y_test, batch_size=batch_size)
