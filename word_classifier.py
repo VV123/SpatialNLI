@@ -256,21 +256,8 @@ class TF:
         if ls == []:
             ls = ['how many rivers are found in <f0> colorado <eof>\tcity', 'how many rivers are found in <f0> colorado <eof>\tstate', 'how many rivers are found in <f0> colorado <eof>\triver']       
  
-        '''
-        env = Dummy()
-        env.x0 = tf.placeholder(tf.float32, (batch_size, maxlen0, embedding_dim),
-                                name='x0')
-        env.x1 = tf.placeholder(tf.float32, (batch_size, maxlen1, embedding_dim),
-                            name='x1')
-        env.y = tf.placeholder(tf.float32, (batch_size, 1), name='y')
-        
-        sess = tf.InteractiveSession()
-        sess.run(tf.global_variables_initializer())
-        sess.run(tf.local_variables_initializer())
-        '''
         X_inf_qu, X_inf_col = _embed_list(ls, g)
-        #build_model(env)
-        #env.saver.restore(sess, "model/word_model")
+
         res, ybar = inference(self.sess, self.env, X_inf_qu, X_inf_col)
         idxs = np.argwhere(ybar>.5)
         match = ''
@@ -283,7 +270,6 @@ class TF:
         if not match:        
             match = ls[res].split('\t')[1]
         
-        #tf.reset_default_graph()
         return match, ybar
 
 if __name__ == '__main__':
