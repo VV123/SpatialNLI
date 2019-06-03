@@ -182,7 +182,6 @@ class Dummy:
 
 
 def build_model(env):
-    # Convert to internal representation
 
     cell0 = tf.nn.rnn_cell.LSTMCell(n_states)
     H0, _ = tf.nn.dynamic_rnn(cell0, env.x0, dtype=tf.float32, scope='h0')
@@ -255,26 +254,11 @@ class TF:
     def infer(self, ls, g=None):
         if ls == []:
             ls = ['how many rivers are found in <f0> colorado <eof>\tcity', 'how many rivers are found in <f0> colorado <eof>\tstate', 'how many rivers are found in <f0> colorado <eof>\triver']       
- 
-        '''
-        env = Dummy()
-        env.x0 = tf.placeholder(tf.float32, (batch_size, maxlen0, embedding_dim),
-                                name='x0')
-        env.x1 = tf.placeholder(tf.float32, (batch_size, maxlen1, embedding_dim),
-                            name='x1')
-        env.y = tf.placeholder(tf.float32, (batch_size, 1), name='y')
-        
-        sess = tf.InteractiveSession()
-        sess.run(tf.global_variables_initializer())
-        sess.run(tf.local_variables_initializer())
-        '''
+
         X_inf_qu, X_inf_col = _embed_list(ls, g)
-        #build_model(env)
-        #env.saver.restore(sess, "model/word_model")
         res = inference(self.sess, self.env, X_inf_qu, X_inf_col)
         res = ls[res].split('\t')[1]
         print(res)
-        #tf.reset_default_graph()
         return res
 
 if __name__ == '__main__':
@@ -287,11 +271,15 @@ if __name__ == '__main__':
         help='Run mode')
     args = arg_parser.parse_args()
    
-
-    if True:
-    
+    if False:
+        '''infer a question'''
+        tf_model = TF()
+        g = glove.Glove()
+        tf_model.infer([], g)
+        
+    else:
+        '''train/infer'''
         env = Dummy()
-
         env.x0 = tf.placeholder(tf.float32, (batch_size, maxlen0, embedding_dim),
                                 name='x0')
         env.x1 = tf.placeholder(tf.float32, (batch_size, maxlen1, embedding_dim),
