@@ -13,11 +13,12 @@ import argparse
 maxlen0 = 20
 maxlen1 = 2
 embedding_dim = 300
-batch_size = 4
-train_batch_size = 4
-n_states = 200
+batch_size = 2
+train_batch_size = 2
+n_states = 300
 classes = 2
-train_epochs = 15
+train_needed = True
+train_epochs = 20
 # ----------------------------------------------------------------------------
 
 def matcher(text, key):
@@ -170,11 +171,10 @@ def inference(sess, env, X0_data, X1_data):
     tru_len = len(X0_data)
     X0_data = np.vstack([X0_data, np.zeros((30-X0_data.shape[0], maxlen0, embedding_dim))])
     X1_data = np.vstack([X1_data, np.zeros((30-X1_data.shape[0], maxlen1, embedding_dim))])
-    print('\nEvaluating')
     ybar = sess.run(env.ybar, feed_dict={env.x0: X0_data, env.x1: X1_data})
     ybar = ybar[:tru_len]
-    print(ybar)
-    return np.argmax(ybar)
+            
+    return np.argmax(ybar), ybar
 
 # ------------------------------------------------------------------------------
 class Dummy:
@@ -182,6 +182,7 @@ class Dummy:
 
 
 def build_model(env):
+    # Convert to internal representation
 
     cell0 = tf.nn.rnn_cell.LSTMCell(n_states)
     H0, _ = tf.nn.dynamic_rnn(cell0, env.x0, dtype=tf.float32, scope='h0')
@@ -200,9 +201,9 @@ def build_model(env):
     print(outputs.get_shape().as_list())
     output = tf.reduce_mean(outputs, axis=1)
 
-    layer1 = tf.layers.dense(output, 100)
+    layer1 = tf.layers.dense(output, 200)
     #dr1 = tf.layers.dropout(layer1, rate=.5)
-    layer2 = tf.layers.dense(layer1, 50)
+    layer2 = tf.layers.dense(layer1, 100)
     #dr2 = tf.layers.dropout(layer2, rate=.5)
 
     logits = tf.layers.dense(layer2, 1)
@@ -249,17 +250,41 @@ class TF:
         self.sess.run(tf.global_variables_initializer())
         self.sess.run(tf.local_variables_initializer())
         build_model(self.env)
-        self.env.saver.restore(self.sess, "/nfs_shares/jzl0166_home/binary_classifier/best_model/word_model")
+        self.env.saver.restore(self.sess, "/nfs_shares/jzl0166_home/binary_classifier/model/word_model")
 
     def infer(self, ls, g=None):
         if ls == []:
             ls = ['how many rivers are found in <f0> colorado <eof>\tcity', 'how many rivers are found in <f0> colorado <eof>\tstate', 'how many rivers are found in <f0> colorado <eof>\triver']       
-
+ 
+        '''
+        env = Dummy()
+        env.x0 = tf.placeholder(tf.float32, (batch_size, maxlen0, embedding_dim),
+                                name='x0')
+        env.x1 = tf.placeholder(tf.float32, (batch_size, maxlen1, embedding_dim),
+                            name='x1')
+        env.y = tf.placeholder(tf.float32, (batch_size, 1), name='y')
+        
+        sess = tf.InteractiveSession()
+        sess.run(tf.global_variables_initializer())
+        sess.run(tf.local_variables_initializer())
+        '''
         X_inf_qu, X_inf_col = _embed_list(ls, g)
-        res = inference(self.sess, self.env, X_inf_qu, X_inf_col)
-        res = ls[res].split('\t')[1]
-        print(res)
-        return res
+        #build_model(env)
+        #env.saver.restore(sess, "model/word_model")
+        res, ybar = inference(self.sess, self.env, X_inf_qu, X_inf_col)
+        idxs = np.argwhere(ybar>.5)
+        match = ''
+        if len(idxs)>1:
+            for i, idx in enumerate(idxs): 
+                idx = idx[0]
+                token = ls[idx].split('\t')[1]
+                if '<eof> ' + token in ls[idx]:
+                    match = token
+        if not match:        
+            match = ls[res].split('\t')[1]
+        
+        #tf.reset_default_graph()
+        return match, ybar
 
 if __name__ == '__main__':
     
@@ -270,16 +295,17 @@ if __name__ == '__main__':
         default='infer',
         help='Run mode')
     args = arg_parser.parse_args()
-   
+    
     if False:
-        '''infer a question'''
+        ''' infer a question '''
         tf_model = TF()
         g = glove.Glove()
-        tf_model.infer([], g)
+        flag, prob = tf_model.infer([], g)
         
     else:
-        '''train/infer'''
+        ''' train/infer '''
         env = Dummy()
+
         env.x0 = tf.placeholder(tf.float32, (batch_size, maxlen0, embedding_dim),
                                 name='x0')
         env.x1 = tf.placeholder(tf.float32, (batch_size, maxlen1, embedding_dim),
@@ -304,9 +330,13 @@ if __name__ == '__main__':
         print(X_dev_col.shape)
         print(y_dev.shape)
         print('----------------')
-
+        #X_dev_qu = X_test_qu
+        #X_dev_col = X_test_col
+        #y_dev = y_test
+        #print(y_dev)
+        #print(y_train)
         if args.mode == 'train':
-            train(sess, env, X_train_qu, X_train_col, y_train, X_train_qu, X_train_col, y_train, epochs=train_epochs, load=False,
+            train(sess, env, X_train_qu, X_train_col, y_train, X_dev_qu, X_dev_col, y_dev, epochs=train_epochs, load=False,
                           shuffle=True, batch_size=batch_size, name='word_model')
             evaluate(sess, env, X_test_qu, X_test_col, y_test, batch_size=batch_size)
         else:
