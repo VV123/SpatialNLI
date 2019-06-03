@@ -37,7 +37,7 @@ For example, "How many rivers are found in `colorado` ?", to infer whether `colo
     tf_model = TF()
     g = glove.Glove()
     flag, prob = tf_model.infer(ls, g)
-    ----------------------
+    ---------------------------------
     OUTPUT: flag = state
             prob = [.1, .9, .1]
     
