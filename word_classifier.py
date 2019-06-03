@@ -278,17 +278,8 @@ class TF:
         return res
 
 if __name__ == '__main__':
+
     if True:
-        X_train_qu, X_train_col, y_train, X_test_qu, X_test_col, y_test, X_dev_qu, X_dev_col, y_dev = load_data()
-        print(X_train_qu.shape)
-        print(X_train_col.shape)
-        print(y_train.shape)
-        tf_model = TF()
-        g = glove.Glove()
-        tf_model.infer([], g)
-        tf_model.infer([], g)
-        tf_model.infer([], g)
-    else:
     
         env = Dummy()
 
@@ -316,11 +307,7 @@ if __name__ == '__main__':
         print(X_dev_col.shape)
         print(y_dev.shape)
         print('----------------')
-        #X_dev_qu = X_test_qu
-        #X_dev_col = X_test_col
-        #y_dev = y_test
-        #print(y_dev)
-        #print(y_train)
+
         if train_needed:
             train(sess, env, X_train_qu, X_train_col, y_train, X_train_qu, X_train_col, y_train, epochs=train_epochs, load=False,
                           shuffle=True, batch_size=batch_size, name='word_model')
