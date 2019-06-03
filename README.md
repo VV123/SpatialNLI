@@ -8,7 +8,7 @@ Understanding Spatial Point-of-Interest
   | River | How many states does the `Mississippi` run through ?|
 ## Approach
   Using a bi-directional attention flow to resolve ambiguity by understanding the spatial context.
-  ![Model](model.jpg)
+  ![Model](spatial-comprehension-model.pdf)
   
 ## Performance
   Geo880 Train Acc 100%  Test Acc 98%
