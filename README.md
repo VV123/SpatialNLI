@@ -13,5 +13,15 @@ Understanding Spatial Point-of-Interest
 ## Performance
   Geo880 Train Acc 100%  Test Acc 98%
   
+
+<!---Training with multiple datasets using a single model
+|              |Acc<sub>qm</sub>|Acc<sub>qm</sub>|
+|--------------|----------------|----------------|
+| Model        |Geoquery        |Restaurant      |
+| Separate     | 90.4%          |100%            |
+| Shared       |**90.7%**       |**100%**        |
+--->
+
+  
 ## How to use
   
