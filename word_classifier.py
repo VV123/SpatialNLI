@@ -316,11 +316,7 @@ if __name__ == '__main__':
         print(X_dev_col.shape)
         print(y_dev.shape)
         print('----------------')
-        #X_dev_qu = X_test_qu
-        #X_dev_col = X_test_col
-        #y_dev = y_test
-        #print(y_dev)
-        #print(y_train)
+
         if args.mode == 'train':
             train(sess, env, X_train_qu, X_train_col, y_train, X_dev_qu, X_dev_col, y_dev, epochs=train_epochs, load=False,
                           shuffle=True, batch_size=batch_size, name='word_model')
