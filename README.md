@@ -11,7 +11,12 @@ Understanding Spatial Point-of-Interest
   ![Model](model.jpg)
   
 ## Performance
-  Geo880 Train Acc 100%  Test Acc 98%
+ 
+  
+  |Data Split|         | Train | Test|
+  |----------|---------|-------|-----|
+  |Geoquery  | Acc     |98.3%  |98.1%|
+  |Restaurant| Acc     |100%   |100% |
   
 
 <!---Training with multiple datasets using a single model
