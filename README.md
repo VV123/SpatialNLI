@@ -1,5 +1,5 @@
 # Spatial-Comprehension
-Understanding Spatial Point-of-Interest
+Understanding Spatial Semantics (e.g., understand the type of a Point-of-Interest)
 
 ## Challenge
   |       | Spatial POI Ambiguity                        |
