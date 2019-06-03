@@ -18,7 +18,36 @@ Understanding Spatial Semantics based on context. (e.g., understand the type of 
 ## Approach
   Using a bi-directional attention flow to resolve ambiguity by understanding the spatial context.
   ![Model](model.jpg)
-  
+
+## Usage
+
+To train a new model
+
+```python word_classifier.py --mode train```
+
+To use trained model for evaluating test sets
+
+```python word_classifier.py --mode infer```
+
+To use trained model to infer a question
+
+For example, "How many rivers are found in `colorado` ?", to infer whether `coloado` refers to a `city`, `state`, or `river`.
+
+    ls = ['how many rivers are found in <f0> colorado <eof>\tcity', 'how many rivers are found in <f0> colorado <eof>\tstate', 'how many rivers are found in <f0> colorado <eof>\triver'] 
+    tf_model = TF()
+    g = glove.Glove()
+    flag, prob = tf_model.infer(ls, g)
+    ----------------------
+    OUTPUT: flag = state
+            prob = [.1, .9, .1]
+    
+    
+
+
+
+ 
+ 
+
 ## Performance
  
   
@@ -37,5 +66,7 @@ Understanding Spatial Semantics based on context. (e.g., understand the type of 
 --->
 
   
-## How to use
+
+
+
   
