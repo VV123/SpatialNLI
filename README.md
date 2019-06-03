@@ -1,5 +1,5 @@
 # Spatial-Comprehension
-Understanding Spatial Semantics (e.g., understand the type of a Point-of-Interest)
+Understanding Spatial Semantics based on context. (e.g., understand the type of a Point-of-Interest)
 
 ## Challenge
  | Context | Spatial Semantics |
