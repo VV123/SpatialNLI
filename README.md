@@ -66,7 +66,9 @@ For example, "How many rivers are found in `colorado` ?", to infer whether `colo
 --->
 
   
+## Miscellaneous
 
+  Make sure the size of the test set is divisible by batch_size while evaluation.
 
 
   
