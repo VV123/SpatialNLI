@@ -41,12 +41,7 @@ For example, "How many rivers are found in `colorado` ?", to infer whether `colo
     OUTPUT: flag = 'state'
             prob = [.1, .9, .1]
     
-    
-
-
-
- 
- 
+   
 
 ## Performance
  
@@ -57,9 +52,9 @@ For example, "How many rivers are found in `colorado` ?", to infer whether `colo
   |Data Split|         | Train | Test|
   |----------|---------|-------|-----|
   |Geoquery  | Acc<sub>rcd</sub> |97.4%  |91.9%|
-  |Geoquery  | Acc<sub>qu</sub> |98.3%  |**98.1%**|
+  |Geoquery  | Acc<sub>qu</sub> |98.3%  |[**98.1%**](https://drive.google.com/drive/folders/1-9jByLW3_zmpgUjeYaCSfuf-t36foL1i)|
   |Restaurant| Acc<sub>rcd</sub> |100%   |100% |
-  |Restaurant| Acc<sub>qu</sub> |100%   |**100%** |
+  |Restaurant| Acc<sub>qu</sub> |100%   |[**100%**](https://drive.google.com/drive/folders/1oG37fIyKIZ26-ht12xR1Ll3TzrGNFy-z?usp=sharing)|
   
 
 <!---Training with multiple datasets using a single model
