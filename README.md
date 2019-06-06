@@ -50,11 +50,16 @@ For example, "How many rivers are found in `colorado` ?", to infer whether `colo
 
 ## Performance
  
+  Acc<sub>rcd</sub> is record accuracy. *It is the acc that optimized by spatial comprehension model.*
+  
+  Acc<sub>qu</sub> is question accuracy. *It is the acc that we would like to improve.*
   
   |Data Split|         | Train | Test|
   |----------|---------|-------|-----|
-  |Geoquery  | Acc     |98.3%  |98.1%|
-  |Restaurant| Acc     |100%   |100% |
+  |Geoquery  | Acc<sub>rcd</sub> |97.4%  |91.9%|
+  |Geoquery  | Acc<sub>qu</sub> |98.3%  |**98.1%**|
+  |Restaurant| Acc<sub>rcd</sub> |100%   |100% |
+  |Restaurant| Acc<sub>qu</sub> |100%   |**100%** |
   
 
 <!---Training with multiple datasets using a single model
