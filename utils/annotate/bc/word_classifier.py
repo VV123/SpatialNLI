@@ -119,7 +119,7 @@ def train(sess, env, X0_data, X1_data, y_data, X0_valid, X1_valid, y_valid ,epoc
             y_data = y_data[ind]
 
         for batch in range(n_batch):
-            #print(' batch {0}/{1}'.format(batch+1, n_batch))
+            print(' batch {0}/{1}'.format(batch+1, n_batch))
             sys.stdout.flush()
             start = batch * batch_size
             end = min(n_sample, start+batch_size)
