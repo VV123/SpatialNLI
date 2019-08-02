@@ -23,6 +23,14 @@ Understanding Spatial Semantics based on context. (e.g., understand the type of 
 
 ## Usage
 
+Directory
+
+```SpatialNLI/utils/annotate/bc```
+
+To build data
+
+```embed.py```
+
 To train a new model
 
 ```python word_classifier.py --mode train```
