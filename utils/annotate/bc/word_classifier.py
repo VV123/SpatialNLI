@@ -108,7 +108,7 @@ def train(sess, env, X0_data, X1_data, y_data, X0_valid, X1_valid, y_valid ,epoc
     n_sample = X0_data.shape[0]
     n_batch = int((n_sample+batch_size-1) / batch_size)
     for epoch in range(epochs):
-        #print('\nEpoch {0}/{1}'.format(epoch+1, epochs))
+        print('\nEpoch {0}/{1}'.format(epoch+1, epochs))
 
         if shuffle:
             print('\nShuffling data')
