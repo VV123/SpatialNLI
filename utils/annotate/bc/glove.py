@@ -20,6 +20,7 @@ class Glove:
     batch_size = 5
     process_num= 2 
     GLOVE_PATH = os.environ['GLOVE_PATH']
+    #GLOVE_PATH = '/home/wzw0022/DATA/glove'
     #GLOVE_PATH = '/Users/lijing/Desktop/NLIDB-master/glove'
     def __init__(self, glove=GLOVE_PATH, rawfile='glove.840B.300d.txt',
                  rebuild=False):
@@ -86,23 +87,29 @@ class Glove:
         word2id, id2vec = self._word2id, self._id2vec
         dim = id2vec.shape[1]
 
-        print('\nAllocating embedding')
+        #print('\nAllocating embedding')
         vec = np.tile(id2vec[word2id['<pad>']], (len(texts) * (maxlen+1), 1))
         vec = np.reshape(vec, (len(texts), maxlen+1, dim))
         vec = vec.astype(np.float32)
 
-        print('\nDo embedding and return unk idx...')
+        #print('\nDo embedding and return unk idx...')
         unk_idx = []
         for i, text in enumerate(texts):
             for j, word in enumerate(text[:(maxlen+1)]):
-                assert j < 1 
-                if word not in word2id or i < 15:
-                    #word = 'unk'
+                # if j<0:
+                #     print(text)
+                #     print(j,word) 
+                # assert j<1
+                if word not in word2id:
+                    if word == '<f0>':
+                        vec[i,j] = np.ones(300)*.5
+                    if word == '<eof>':
+                        vec[i,j] = np.ones(300)*.7
                     vec[i,j] = np.random.rand(300)*np.square(3)
-                    unk_idx.append(i)
+                      
                 else:
                     vec[i, j] = id2vec[word2id[word]]
-        return vec, unk_idx
+        return vec
 
     def reverse_embedding(self, vecs, k=3, embedding=True, batch_size=None, process_num=None, maxlen=400):
         from functools import partial
@@ -150,6 +157,16 @@ class Glove:
             return words, vecs
 
         return words
+    def embed_one(self, word):
+
+        word2id, id2vec = self._word2id, self._id2vec
+
+
+        if word in word2id:
+            return id2vec[word2id[word]]
+        else:
+            print('Error')
+            return np.ones(300)
 
 def _worker(vecs, k, modelpath, num, return_dict):
     cur = current_process()

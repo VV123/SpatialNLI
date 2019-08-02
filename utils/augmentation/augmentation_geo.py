@@ -1,3 +1,5 @@
+__author__ = 'Jingjing Li'
+
 from StringIO import StringIO
 import re
 import os

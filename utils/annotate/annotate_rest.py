@@ -1,3 +1,5 @@
+__author__ = 'Jingjing Li'
+
 import os
 import random
 import numpy as np

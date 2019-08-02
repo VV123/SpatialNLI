@@ -7,6 +7,7 @@ import numpy as np
 import tensorflow as tf
 import sys
 import glove
+import argparse
 # ----------------------------------------------------------------------------
 
 maxlen0 = 20
@@ -16,8 +17,8 @@ batch_size = 2
 train_batch_size = 2
 n_states = 300
 classes = 2
-train_needed = False
-train_epochs = 6
+train_needed = True
+train_epochs = 20
 # ----------------------------------------------------------------------------
 
 def matcher(text, key):
@@ -255,21 +256,8 @@ class TF:
         if ls == []:
             ls = ['how many rivers are found in <f0> colorado <eof>\tcity', 'how many rivers are found in <f0> colorado <eof>\tstate', 'how many rivers are found in <f0> colorado <eof>\triver']       
  
-        '''
-        env = Dummy()
-        env.x0 = tf.placeholder(tf.float32, (batch_size, maxlen0, embedding_dim),
-                                name='x0')
-        env.x1 = tf.placeholder(tf.float32, (batch_size, maxlen1, embedding_dim),
-                            name='x1')
-        env.y = tf.placeholder(tf.float32, (batch_size, 1), name='y')
-        
-        sess = tf.InteractiveSession()
-        sess.run(tf.global_variables_initializer())
-        sess.run(tf.local_variables_initializer())
-        '''
         X_inf_qu, X_inf_col = _embed_list(ls, g)
-        #build_model(env)
-        #env.saver.restore(sess, "model/word_model")
+
         res, ybar = inference(self.sess, self.env, X_inf_qu, X_inf_col)
         idxs = np.argwhere(ybar>.5)
         match = ''
@@ -282,22 +270,26 @@ class TF:
         if not match:        
             match = ls[res].split('\t')[1]
         
-        #tf.reset_default_graph()
         return match, ybar
 
 if __name__ == '__main__':
+    
+    arg_parser = argparse.ArgumentParser()
+    arg_parser.add_argument(
+        '--mode',
+        choices=['train', 'infer'],
+        default='infer',
+        help='Run mode')
+    args = arg_parser.parse_args()
+    
     if False:
-        X_train_qu, X_train_col, y_train, X_test_qu, X_test_col, y_test, X_dev_qu, X_dev_col, y_dev = load_data()
-        print(X_train_qu.shape)
-        print(X_train_col.shape)
-        print(y_train.shape)
+        ''' infer a question '''
         tf_model = TF()
         g = glove.Glove()
-        tf_model.infer([], g)
-        tf_model.infer([], g)
-        tf_model.infer([], g)
+        flag, prob = tf_model.infer([], g)
+        
     else:
-    
+        ''' train/infer '''
         env = Dummy()
 
         env.x0 = tf.placeholder(tf.float32, (batch_size, maxlen0, embedding_dim),
@@ -314,22 +306,7 @@ if __name__ == '__main__':
         X_train_qu, X_train_col, y_train, X_test_qu, X_test_col, y_test, X_dev_qu, X_dev_col, y_dev = load_data()
         print('Load data done...')
 
-        print('----------------')
-        print(X_train_qu.shape)
-        print(X_train_col.shape)
-        print(X_test_qu.shape)
-        print(X_test_col.shape)
-        print(y_test.shape)
-        print(X_dev_qu.shape)
-        print(X_dev_col.shape)
-        print(y_dev.shape)
-        print('----------------')
-        #X_dev_qu = X_test_qu
-        #X_dev_col = X_test_col
-        #y_dev = y_test
-        #print(y_dev)
-        #print(y_train)
-        if train_needed:
+        if args.mode == 'train':
             train(sess, env, X_train_qu, X_train_col, y_train, X_dev_qu, X_dev_col, y_dev, epochs=train_epochs, load=False,
                           shuffle=True, batch_size=batch_size, name='word_model')
             evaluate(sess, env, X_test_qu, X_test_col, y_test, batch_size=batch_size)

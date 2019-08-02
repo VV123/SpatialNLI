@@ -1,3 +1,5 @@
+__author__ = 'Wenlu Wang'
+
 from __future__ import print_function
 import sys
 import os
@@ -172,45 +174,6 @@ def decode_data_recover(sess, env, args, X_data, y_data, s, batch_size=128):
     
     return acc*1./len(y_data)
 
-# def decode_data_recover(sess, env, args, X_data, y_data, s, batch_size=128):
-#     """
-#     Inference and calculate EM acc based on recovered SQL
-#     """
-#     annotation_path = args.annotation_path
-#     i, acc = 0, 0
-#     _, reverse_vocab_dict, _, _ = load_vocab_all(args)
-#     inf_logics = _decode_data(sess, env, X_data, batch_size, reverse_vocab_dict) 
-#     xtru, ytru = X_data, y_data
-#     with gfile.GFile(annotation_path+'%s_infer.txt'%s, mode='w') as output, gfile.GFile(annotation_path+'%s_ground_truth.txt'%s, mode='r') as S_ori_file:
-#         # ,\ gfile.GFile(annotation_path+'%s_sym_pairs.txt'%s, mode='r') as sym_pair_file:
-
-#         S_oris = S_ori_file.readlines()  # SQL files before annotation
-#         for true_seq, logic, x, S_ori in zip(ytru, inf_logics, xtru, S_oris):
-#             S_ori = S_ori.replace('\n','')
-            
-#             true_seq = true_seq[1:]    #delete <bos>
-#             x = x[1:]   #delete <bos>
-#             true_seq = true_seq[:list(true_seq).index(_END)]
-#             x = np.append(x, _END)
-#             x = x[:list(x).index(_END)]
-
-#             xseq = " ".join([reverse_vocab_dict[idx] for idx in x])
-#             true_logic = " ".join([reverse_vocab_dict[idx] for idx in true_seq])
-
-#             logic = logic.replace(' (','').replace(' )','')
-#             true_logic = true_logic.replace(' (','').replace(' )','') 
-
-#             logic = _switch_cond(logic, true_logic)
-
-#             recover_S = logic
-#             acc += (logic == true_logic)
-#             output.write(recover_S + '\n')
-#             i += 1
-    
-#     print('EM: %.4f'%(acc*1./len(y_data)))  
-#     print('number of correct ones:%d'%acc)
-    
-#     return acc*1./len(y_data)
 
 def decode_data(sess, env, args, X_data, y_data, batch_size=128, filename='output.txt'):
     """

@@ -1,10 +1,12 @@
+__author__ = 'Wenlu Wang'
+
 import numpy as np
 import os
 import pickle
 path = os.path.abspath(__file__)
 datapath = os.path.dirname(path)
 datapath = ''
-def load_data(file1='wiki.npz', file2='wiki_label.npz', datapath=datapath):
+def load_data(file1='bc.npz', file2='bc_label.npz', datapath=datapath):
     print('Start loading...')
     data = np.load(os.path.join(datapath,file1))
     X_train_qu = data['X_train_qu']

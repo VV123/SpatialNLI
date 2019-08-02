@@ -1,3 +1,5 @@
+__author__ = 'Jingjing Li'
+
 import os
 import numpy as np
 import pandas as pd

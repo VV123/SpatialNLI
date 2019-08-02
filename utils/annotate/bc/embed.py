@@ -1,18 +1,25 @@
+__author__ = 'Wenlu Wang'
+
 import numpy as np
 import os
 path = os.path.abspath(__file__)
-datapath = os.path.dirname(path).replace('/data','')
-savepath = os.path.dirname(path).replace('/data','')
+
 import codecs
 import nltk
 import glove
 maxlen0 = 20
 maxlen1 = 2
 
-def embed_data(maxlen_p=maxlen0,maxlen_q=maxlen1,embedding=None,save=False):
-	filepath ='wiki.npz'
+def embed_data(maxlen_p=maxlen0,maxlen_q=maxlen1,embedding=None,save=False,datapath=None,savepath=None):
+	if not datapath:
+		datapath = os.path.dirname(path).replace('/data','')
+
+	if not savepath:
+		savepath = os.path.dirname(path).replace('/data','')
+
+	filepath ='bc.npz'
 	filepath_X = os.path.expanduser(os.path.join(savepath, filepath))
-	filepath = 'wiki_label.npz'
+	filepath = 'bc_label.npz'
 	filepath_y = os.path.expanduser(os.path.join(savepath, filepath))
 	g = embedding
 	if g is None:
@@ -57,6 +64,5 @@ def _embed_list(ls, g=None, maxlen_p=20, maxlen_q=2):
     return g.embedding(questions, maxlen=maxlen_p-1), g.embedding(cols, maxlen=maxlen_q-1)
 
 if __name__ == "__main__":
-    #ls = ['give me the <f0> most <eof> sized city\tlargest', 'give me the <f0> most <eof> sized city\thighest']
-    #X_inf_qu, X_inf_col = _embed_list(ls)
-    embed_data(save = True)
+    embed_data(save = True,datapath='data/geo',savepath='data/geo')
+    embed_data(save = True,datapath='data/rest',savepath='data/rest')
