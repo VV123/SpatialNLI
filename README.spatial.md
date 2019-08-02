@@ -23,9 +23,7 @@ Understanding Spatial Semantics based on context. (e.g., understand the type of 
 
 ## Usage
 
-Directory
-
-```SpatialNLI/utils/annotate/bc```
+[Directory](/utils/annotate/bc)
 
 To build data
 
