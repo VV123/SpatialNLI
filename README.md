@@ -23,21 +23,27 @@ SpatialNLI | [Spatial Comprehension](./README.spatial.md) | [Annotation](./READM
 
 To Build data
 
-```python utils/data_manager.py --data 'geo'```
+```
+python utils/data_manager.py --data 'geo'
 
-```python utils/data_manager.py --data 'rest'```
+python utils/data_manager.py --data 'rest'
+```
 
 To train new model
 
-```python main.py --mode train --data 'geo'```
+```
+python main.py --mode train --data 'geo
 
-```python main.py --mode train --data 'rest'```
+python main.py --mode train --data 'rest'
+```
 
 To infer using pre-trained model
 
-```python main.py --mode infer --data 'geo'```
+```
+python main.py --mode infer --data 'geo'
 
-```python main.py --mode infer --data 'rest'```
+python main.py --mode infer --data 'rest'
+```
 
 
 ## Evaluation
