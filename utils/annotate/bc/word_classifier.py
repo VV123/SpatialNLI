@@ -305,7 +305,7 @@ if __name__ == '__main__':
         sess.run(tf.local_variables_initializer())
 
         print('Load data start...')
-        X_train_qu, X_train_col, y_train, X_test_qu, X_test_col, y_test, X_dev_qu, X_dev_col, y_dev = load_data()
+        X_train_qu, X_train_col, y_train, X_test_qu, X_test_col, y_test, X_dev_qu, X_dev_col, y_dev = load_data(datapath='data/geo')
         print('Load data done...')
 
         if args.mode == 'train':
