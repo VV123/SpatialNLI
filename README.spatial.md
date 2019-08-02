@@ -3,8 +3,6 @@
 # SpatialNLI using Spatial-Comprehension
 Understanding Spatial Semantics based on context. (e.g., understand the type of a Point-of-Interest)
 
-The implementation of our paper [SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension]()
-
 ## Challenge
  | Context | Spatial Semantics |
  |---------|:-------------------:|
