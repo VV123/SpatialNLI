@@ -1,0 +1,8 @@
+count:how many,how much,number
+len:how long
+elevation:how high,how tall
+size:how big,how large
+population:how many citizens,how many people,how many residents,how many inhabitants,number of citizens,number of people,how much population
+area:square kilometers
+density:population per square,average population,average urban population
+traverse:through

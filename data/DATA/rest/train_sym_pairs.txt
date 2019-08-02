@@ -1,0 +1,339 @@
+<f2>=>locations city name<><f3>=>cityid<><c0>=>sunnyvale<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>french<><f0>=>max ( rating )<><f1>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>locations city name<><f4>=>cityid<><c1>=>alameda<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>arabic<><f0>=>house no<>
+<f5>=>geographic region name<><f6>=>regionid<><c2>=>bay area<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>italian<><f0>=>house no<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f5>=>locations city name<><f6>=>cityid<><c2>=>alameda<><f2>=>house no<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>ice cream<><f3>=>locations city name<><f4>=>cityid<><c1>=>fremont<><f0>=>count food type<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>jamerican cuisine<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>soquel dr<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>aptos<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>french<><f0>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>chinese<><f0>=>count food type<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>count food type<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>mountain view<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f0>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>italian<><f0>=>count food type<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>san francisco<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>chinese<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>locations street name<><f4>=>streetid<><c1>=>buchanan<><f0>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>palo alto<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>chinese<><f0>=>max ( rating )<><f1>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>chinese<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f0>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>chinese<><f0>=>count food type<>
+<f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>ice cream<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>alameda<><f2>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>san francisco<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>italian<><f0>=>count food type<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>aptos<><f3>=>generalinfo rating<><f4>=>ratingid<><c1>=>good<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>french<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>mountain view<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>mountain view<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>french<><f0>=>house no<>
+<f5>=>geographic region name<><f6>=>regionid<><c2>=>yosemite and mono lake area<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>french<><f0>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>el camino<><f3>=>locations city name<><f4>=>cityid<><c1>=>palo alto<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>el camino<><f5>=>locations city name<><f6>=>cityid<><c2>=>palo alto<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>italian<><f0>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>jamerican cuisine<><f3>=>locations city name<><f4>=>cityid<><c1>=>san francisco<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>appleton dr<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f7>=>locations city name<><f8>=>cityid<><c3>=>aptos<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>soquel dr<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>aptos<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>french<><f2>=>house no<>
+<f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>ice cream<><f5>=>locations street name<><f6>=>streetid<><c2>=>blanding ave<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f7>=>locations city name<><f8>=>cityid<><c3>=>alameda<><f2>=>house no<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>san francisco<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>chinese<><f3>=>generalinfo rating<><f4>=>ratingid<><c1>=>good<><f0>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>san jose<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>american<><f0>=>house no<><f1>=>max ( rating )<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>alameda<><f0>=>house no<>
+<f5>=>geographic region name<><f6>=>regionid<><c2>=>yosemite and mono lake area<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c1>=>italian<><f4>=>house no<>
+<f4>=>geographic region name<><f5>=>regionid<><c1>=>bay area<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>bakery<><f0>=>house no<><f1>=>max ( rating )<>
+<f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>ice cream<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>alameda<><f0>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>el camino<><f3>=>locations city name<><f4>=>cityid<><c1>=>palo alto<><f0>=>house no<>
+<f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>chinese<><f2>=>locations city name<><f3>=>cityid<><c0>=>fremont<><f0>=>house no<><f1>=>max ( rating )<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>count food type<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>webster st<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f7>=>locations city name<><f8>=>cityid<><c3>=>alameda<><f2>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>san francisco<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>chinese<><f1>=>locations street name<><f2>=>streetid<><c0>=>buchanan<><f5>=>generalinfo rating<><f6>=>ratingid<><c2>=>good<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>fairgrounds dr<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>american<><f7>=>locations city name<><f8>=>cityid<><c3>=>sunnyvale<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>bethel island rd<><f5>=>locations city name<><f6>=>cityid<><c2>=>bethel island<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>french<><f0>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>ice cream<><f5>=>locations street name<><f6>=>streetid<><c2>=>blanding ave<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f7>=>locations city name<><f8>=>cityid<><c3>=>alameda<><f2>=>house no<>
+<f4>=>geographic region name<><f5>=>regionid<><c1>=>bay area<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>bakery<><f1>=>max ( rating )<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>mountain view<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>arabic<><f2>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>dennys<><f0>=>house no<>
+<f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>ice cream<><f5>=>locations street name<><f6>=>streetid<><c2>=>blanding ave<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f7>=>locations city name<><f8>=>cityid<><c3>=>alameda<><f0>=>house no<>
+<f3>=>geographic county name<><f4>=>countyid<><c1>=>santa cruz county<><f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>jamerican cuisine<><f0>=>rest name count<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>locations city name<><f4>=>cityid<><c1>=>alameda<><f2>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>webster st<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>cafe<><f7>=>locations city name<><f8>=>cityid<><c3>=>alameda<><f0>=>house no<>
+<f2>=>geographic region name<><f3>=>regionid<><c0>=>monterey<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>french<><f0>=>max ( rating )<><f1>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>mountain view<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>san jose<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>chinese<><f0>=>count food type<>
+<f7>=>locations city name<><f8>=>cityid<><c3>=>san francisco<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f5>=>locations street name<><f6>=>streetid<><c2>=>buchanan<><f0>=>house no<>
+<f1>=>geographic region name<><f2>=>regionid<><c0>=>bay area<><f0>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>count food type<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>chinese<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>bakery<><f0>=>count food type<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f5>=>locations city name<><f6>=>cityid<><c2>=>alameda<><f0>=>house no<>
+<f1>=>geographic region name<><f2>=>regionid<><c0>=>bay area<><f0>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>french<><f2>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>san francisco<><f1>=>locations street name<><f2>=>streetid<><c0>=>buchanan<><f5>=>generalinfo rating<><f6>=>ratingid<><c2>=>good<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>arabic<><f0>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>jamerican cuisine<><f3>=>locations city name<><f4>=>cityid<><c1>=>san francisco<><f0>=>rest name count<>
+<f3>=>geographic county name<><f4>=>countyid<><c1>=>yolo county<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>italian<><f0>=>count food type<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f4>=>locations city name<><f5>=>cityid<><c1>=>sunnyvale<><f0>=>max ( rating )<><f3>=>house no<>
+<f1>=>geographic region name<><f2>=>regionid<><c0>=>bay area<><f0>=>house no<>
+<f2>=>geographic region name<><f3>=>regionid<><c0>=>monterey<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>french<><f0>=>max ( rating )<><f1>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>alameda<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>french<><f0>=>max ( rating )<><f1>=>house no<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>chinese<><f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f0>=>count food type<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f5>=>geographic region name<><f6>=>regionid<><c2>=>bay area<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>fairgrounds dr<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c1>=>american<><f7>=>locations city name<><f8>=>cityid<><c3>=>sunnyvale<><f4>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>san francisco<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>italian<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>el camino<><f5>=>locations city name<><f6>=>cityid<><c2>=>palo alto<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>bethel island rd<><f5>=>locations city name<><f6>=>cityid<><c2>=>bethel island<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>fremont<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>american<><f0>=>max ( rating )<><f1>=>house no<>
+<f3>=>geographic county name<><f4>=>countyid<><c1>=>yolo county<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>count food type<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>fairgrounds dr<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>sunnyvale<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>american<><f2>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>san francisco<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>italian<><f0>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>mountain view<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f0>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>buttercup kitchen<><f0>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>dennys<><f0>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>jamerican cuisine<><f3>=>locations city name<><f4>=>cityid<><c1>=>san francisco<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>fairgrounds dr<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>sunnyvale<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>american<><f2>=>house no<>
+<f2>=>geographic region name<><f3>=>regionid<><c0>=>bay area<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>chinese<><f0>=>max ( rating )<><f1>=>house no<>
+<f2>=>geographic region name<><f3>=>regionid<><c0>=>monterey<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>french<><f0>=>max ( rating )<><f1>=>house no<>
+<f4>=>locations city name<><f5>=>cityid<><c1>=>palo alto<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>bakery<><f1>=>max ( rating )<><f0>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>italian<><f5>=>locations city name<><f6>=>cityid<><c2>=>alameda<><f0>=>house no<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c1>=>french<><f5>=>locations city name<><f6>=>cityid<><c2>=>alameda<><f4>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>jamerican cuisine<><f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>palo alto<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>chinese<><f0>=>count food type<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>cafe<><f5>=>locations city name<><f6>=>cityid<><c2>=>alameda<><f0>=>house no<>
+<f2>=>geographic region name<><f3>=>regionid<><c0>=>bay area<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>american<><f0>=>house no<><f1>=>max ( rating )<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>french<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>el camino<><f5>=>locations city name<><f6>=>cityid<><c2>=>palo alto<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>blanding ave<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>alameda<><f2>=>house no<>
+<f2>=>geographic region name<><f3>=>regionid<><c0>=>monterey<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>french<><f0>=>house no<><f1>=>max ( rating )<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>buttercup kitchen<><f3>=>locations city name<><f4>=>cityid<><c1>=>walnut creek<><f0>=>rest name count<>
+<f7>=>locations city name<><f8>=>cityid<><c3>=>san francisco<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c1>=>chinese<><f5>=>locations street name<><f6>=>streetid<><c2>=>buchanan<><f4>=>house no<>
+<f2>=>geographic region name<><f3>=>regionid<><c0>=>bay area<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>american<><f0>=>max ( rating )<><f1>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>fairgrounds dr<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>american<><f7>=>locations city name<><f8>=>cityid<><c3>=>sunnyvale<><f0>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>el camino<><f3>=>locations city name<><f4>=>cityid<><c1>=>palo alto<><f0>=>house no<>
+<f0>=>house no<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>bakery<><f4>=>locations city name<><f5>=>cityid<><c1>=>fremont<><f1>=>max ( rating )<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f5>=>locations city name<><f6>=>cityid<><c2>=>berkeley<><f0>=>house no<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>ice cream<><f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f0>=>count food type<>
+<f5>=>geographic region name<><f6>=>regionid<><c2>=>yosemite and mono lake area<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>french<><f0>=>house no<>
+<f4>=>geographic region name<><f5>=>regionid<><c1>=>bay area<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>max ( rating )<><f3>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f5>=>locations city name<><f6>=>cityid<><c2>=>aptos<><f0>=>house no<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>mountain view<><f0>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>palo alto<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>italian<><f0>=>max ( rating )<><f1>=>house no<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>chinese<><f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f0>=>count food type<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>san francisco<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f3>=>locations street name<><f4>=>streetid<><c1>=>buchanan<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>bethel island rd<><f7>=>locations city name<><f8>=>cityid<><c3>=>bethel island<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>mountain view<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>chinese<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>webster st<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f7>=>locations city name<><f8>=>cityid<><c3>=>alameda<><f2>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>fairgrounds dr<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>french<><f7>=>locations city name<><f8>=>cityid<><c3>=>sunnyvale<><f0>=>house no<>
+<f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>french<><f4>=>locations city name<><f5>=>cityid<><c1>=>sunnyvale<><f0>=>house no<><f1>=>max ( rating )<>
+<f4>=>locations city name<><f5>=>cityid<><c1>=>palo alto<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>bakery<><f0>=>house no<><f1>=>max ( rating )<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>fairgrounds dr<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>sunnyvale<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>american<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>san francisco<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>french<><f2>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f5>=>locations city name<><f6>=>cityid<><c2>=>aptos<><f0>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>el camino<><f5>=>locations city name<><f6>=>cityid<><c2>=>palo alto<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>san francisco<><f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>dennys<><f0>=>house no<>
+<f4>=>locations city name<><f5>=>cityid<><c1>=>san francisco<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>max ( rating )<><f3>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>mountain view<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>bethel island rd<><f3>=>locations city name<><f4>=>cityid<><c1>=>bethel island<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>webster st<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>cafe<><f7>=>locations city name<><f8>=>cityid<><c3>=>alameda<><f0>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>bethel island<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f0>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>bethel island rd<><f3>=>locations city name<><f4>=>cityid<><c1>=>bethel island<><f0>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>san francisco<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>locations street name<><f4>=>streetid<><c1>=>buchanan<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>arabic<><f2>=>house no<>
+<f1>=>geographic region name<><f2>=>regionid<><c0>=>bay area<><f0>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>house no<>
+<f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>chinese<><f2>=>locations city name<><f3>=>cityid<><c0>=>fremont<><f0>=>max ( rating )<><f1>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>fairgrounds dr<><f3>=>locations city name<><f4>=>cityid<><c1>=>sunnyvale<><f5>=>generalinfo rating<><f6>=>ratingid<><c2>=>good<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>american<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>webster st<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f7>=>locations city name<><f8>=>cityid<><c3>=>alameda<><f2>=>house no<>
+<f5>=>geographic region name<><f6>=>regionid<><c2>=>bay area<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f0>=>house no<>
+<f5>=>geographic region name<><f6>=>regionid<><c2>=>bay area<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>french<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>palo alto<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>count food type<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f3>=>locations city name<><f4>=>cityid<><c1>=>fremont<><f0>=>count food type<>
+<f5>=>geographic region name<><f6>=>regionid<><c2>=>bay area<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f0>=>house no<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>locations city name<><f4>=>cityid<><c1>=>alameda<><f2>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>palo alto<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>count food type<>
+<f2>=>geographic region name<><f3>=>regionid<><c0>=>bay area<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>chinese<><f0>=>max ( rating )<><f1>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>dennys<><f3>=>locations city name<><f4>=>cityid<><c1>=>fremont<><f0>=>rest name count<>
+<f4>=>geographic region name<><f5>=>regionid<><c1>=>bay area<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>max ( rating )<><f3>=>house no<>
+<f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>ice cream<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>alameda<><f2>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>fairgrounds dr<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>american<><f5>=>locations city name<><f6>=>cityid<><c2>=>sunnyvale<><f0>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>san francisco<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>arabic<><f3>=>locations street name<><f4>=>streetid<><c1>=>buchanan<><f0>=>house no<>
+<f5>=>geographic region name<><f6>=>regionid<><c2>=>bay area<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c1>=>chinese<><f4>=>house no<>
+<f2>=>geographic region name<><f3>=>regionid<><c0>=>bay area<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>arabic<><f0>=>house no<><f1>=>max ( rating )<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>alameda<><f0>=>house no<>
+<f2>=>geographic region name<><f3>=>regionid<><c0>=>bay area<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>american<><f0>=>max ( rating )<><f1>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>shattuck ave<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f7>=>locations city name<><f8>=>cityid<><c3>=>berkeley<><f0>=>house no<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f5>=>locations city name<><f6>=>cityid<><c2>=>alameda<><f2>=>house no<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f5>=>locations city name<><f6>=>cityid<><c2>=>alameda<><f2>=>house no<>
+<f0>=>house no<><f4>=>geographic region name<><f5>=>regionid<><c1>=>bay area<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>bakery<><f1>=>max ( rating )<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>san francisco<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>french<><f2>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>appleton dr<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f7>=>locations city name<><f8>=>cityid<><c3>=>aptos<><f0>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>italian<><f0>=>count food type<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>bethel island<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f0>=>house no<>
+<f7>=>locations city name<><f8>=>cityid<><c3>=>san francisco<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f5>=>locations street name<><f6>=>streetid<><c2>=>buchanan<><f0>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>palo alto<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>italian<><f0>=>max ( rating )<><f1>=>house no<>
+<f3>=>geographic county name<><f4>=>countyid<><c1>=>santa clara county<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>count food type<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>el camino<><f3>=>locations city name<><f4>=>cityid<><c1>=>palo alto<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>webster st<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f7>=>locations city name<><f8>=>cityid<><c3>=>alameda<><f0>=>house no<>
+<f2>=>geographic region name<><f3>=>regionid<><c0>=>bay area<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>american<><f0>=>max ( rating )<><f1>=>house no<>
+<f7>=>locations city name<><f8>=>cityid<><c3>=>san francisco<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f5>=>locations street name<><f6>=>streetid<><c2>=>buchanan<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>palo alto<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>chinese<><f0>=>count food type<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>fremont<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>american<><f0>=>max ( rating )<><f1>=>house no<>
+<f5>=>geographic region name<><f6>=>regionid<><c2>=>bay area<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>el camino<><f7>=>locations city name<><f8>=>cityid<><c3>=>palo alto<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f2>=>house no<>
+<f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>bakery<><f4>=>locations city name<><f5>=>cityid<><c1>=>fremont<><f1>=>max ( rating )<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>palo alto<><f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>dennys<><f0>=>rest name count<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>sunnyvale<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>french<><f0>=>house no<><f1>=>max ( rating )<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>aptos<><f3>=>generalinfo rating<><f4>=>ratingid<><c1>=>good<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>french<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>san francisco<><f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>dennys<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>san jose<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>italian<><f0>=>count food type<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>fairgrounds dr<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>italian<><f7>=>locations city name<><f8>=>cityid<><c3>=>sunnyvale<><f0>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>dennys<><f3>=>locations city name<><f4>=>cityid<><c1>=>sunnyvale<><f0>=>rest name count<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>fairgrounds dr<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>french<><f7>=>locations city name<><f8>=>cityid<><c3>=>sunnyvale<><f0>=>house no<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>arabic<><f3>=>locations city name<><f4>=>cityid<><c1>=>alameda<><f0>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>count food type<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>locations city name<><f4>=>cityid<><c1>=>alameda<><f2>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>fairgrounds dr<><f3>=>locations city name<><f4>=>cityid<><c1>=>sunnyvale<><f5>=>generalinfo rating<><f6>=>ratingid<><c2>=>good<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>american<><f0>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>blanding ave<><f3>=>locations city name<><f4>=>cityid<><c1>=>alameda<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>el camino<><f7>=>locations city name<><f8>=>cityid<><c3>=>palo alto<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f2>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>mountain view<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>chinese<><f0>=>house no<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>locations city name<><f4>=>cityid<><c1>=>alameda<><f2>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>palo alto<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>chinese<><f0>=>max ( rating )<><f1>=>house no<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>alameda<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>bethel island rd<><f7>=>locations city name<><f8>=>cityid<><c3>=>bethel island<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f0>=>house no<>
+<f4>=>geographic region name<><f5>=>regionid<><c1>=>bay area<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>french<><f0>=>house no<><f1>=>max ( rating )<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>sunnyvale<><f3>=>generalinfo rating<><f4>=>ratingid<><c1>=>good<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>american<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>el camino<><f5>=>locations city name<><f6>=>cityid<><c2>=>palo alto<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f0>=>house no<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>italian<><f0>=>count food type<>
+<f3>=>geographic region name<><f4>=>regionid<><c1>=>bay area<><f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>wendys<><f0>=>rest name count<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>san jose<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>american<><f0>=>max ( rating )<><f1>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>alameda<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>french<><f0>=>max ( rating )<><f1>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>union city<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>arabic<><f0>=>house no<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f5>=>locations city name<><f6>=>cityid<><c2>=>sonoma<><f2>=>house no<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>ice cream<><f3>=>locations city name<><f4>=>cityid<><c1>=>san jose<><f0>=>count food type<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>santa rosa<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>locations street name<><f4>=>streetid<><c1>=>irving<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>french<><f0>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f5>=>locations city name<><f6>=>cityid<><c2>=>antioch<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>cotton st<><f5>=>locations city name<><f6>=>cityid<><c2>=>san pablo<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>chinese<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f0>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>fort bragg<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>chinese<><f0>=>max ( rating )<><f1>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>half moon bay<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>ice cream<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>italian<><f3>=>locations city name<><f4>=>cityid<><c1>=>larkspur<><f0>=>count food type<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>castroville<><f3>=>generalinfo rating<><f4>=>ratingid<><c1>=>good<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>french<><f0>=>house no<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>locations city name<><f4>=>cityid<><c1>=>saratoga<><f2>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>san mateo<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>french<><f0>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>broadway<><f3>=>locations city name<><f4>=>cityid<><c1>=>sausalito<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>financial plz ste 120<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>italian<><f5>=>locations city name<><f6>=>cityid<><c2>=>sausalito<><f0>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>jamerican cuisine<><f3>=>locations city name<><f4>=>cityid<><c1>=>fremont<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>dublin blvd<><f7>=>locations city name<><f8>=>cityid<><c3>=>san mateo<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f0>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>san juan bautista<><f3>=>locations street name<><f4>=>streetid<><c1>=>dublin blvd<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>french<><f2>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>clay st ste 600<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>ice cream<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f7>=>locations city name<><f8>=>cityid<><c3>=>saratoga<><f2>=>house no<>
+<f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>chinese<><f1>=>locations city name<><f2>=>cityid<><c0>=>albany<><f3>=>generalinfo rating<><f4>=>ratingid<><c1>=>good<><f0>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>saint helena<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>american<><f0>=>house no<><f1>=>max ( rating )<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>cupertino<><f0>=>house no<>
+<f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>ice cream<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>albany<><f0>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>el cerrito plz<><f3>=>locations city name<><f4>=>cityid<><c1>=>san rafael<><f0>=>house no<>
+<f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>chinese<><f2>=>locations city name<><f3>=>cityid<><c0>=>watsonville<><f0>=>house no<><f1>=>max ( rating )<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>granada rd<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f7>=>locations city name<><f8>=>cityid<><c3>=>newark<><f2>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>newpark mall<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>chinese<><f3>=>locations city name<><f4>=>cityid<><c1>=>belmont<><f5>=>generalinfo rating<><f6>=>ratingid<><c2>=>good<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>argonaut way<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>american<><f7>=>locations city name<><f8>=>cityid<><c3>=>burlingame<><f0>=>house no<>
+<f7>=>locations city name<><f8>=>cityid<><c3>=>east palo alto<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>ice cream<><f5>=>locations street name<><f6>=>streetid<><c2>=>alhambra ave<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>portola valley<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>arabic<><f2>=>house no<>
+<f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>ice cream<><f5>=>locations street name<><f6>=>streetid<><c2>=>hegenberger rd<><f7>=>locations city name<><f8>=>cityid<><c3>=>san leandro<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f0>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>jamerican cuisine<><f3>=>geographic county name<><f4>=>countyid<><c1>=>yolo county<><f5>=>county<><f0>=>rest name count<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>los altos<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>stevens creek blvd<><f7>=>locations city name<><f8>=>cityid<><c3>=>santa rosa<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>cafe<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>san ramon<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>san francisco<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>chinese<><f0>=>count food type<>
+<f7>=>locations city name<><f8>=>cityid<><c3>=>san juan bautista<><f5>=>locations street name<><f6>=>streetid<><c2>=>university ave<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f0>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f5>=>locations city name<><f6>=>cityid<><c2>=>vacaville<><f0>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>granada rd<><f3>=>locations city name<><f4>=>cityid<><c1>=>morgan hill<><f5>=>generalinfo rating<><f6>=>ratingid<><c2>=>good<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>arabic<><f0>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>jamerican cuisine<><f3>=>locations city name<><f4>=>cityid<><c1>=>campbell<><f0>=>rest name count<>
+<f3>=>geographic county name<><f4>=>countyid<><c1>=>san mateo county<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>italian<><f0>=>count food type<>
+<f4>=>locations city name<><f5>=>cityid<><c1>=>daly city<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>max ( rating )<><f3>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>rohnert park<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>french<><f0>=>max ( rating )<><f1>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>los carneros ave<><f7>=>locations city name<><f8>=>cityid<><c3>=>saint helena<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c1>=>american<><f4>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>italian<><f5>=>locations city name<><f6>=>cityid<><c2>=>healdsburg<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>n texas st<><f5>=>locations city name<><f6>=>cityid<><c2>=>foster city<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>university avenue<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>campbell<><f2>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>oakley<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>american<><f0>=>max ( rating )<><f1>=>house no<>
+<f3>=>geographic county name<><f4>=>countyid<><c1>=>alameda county<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>count food type<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>hegenberger rd<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>healdsburg<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>american<><f2>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f5>=>locations city name<><f6>=>cityid<><c2>=>piedmont<><f0>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>jamerican cuisine<><f3>=>locations city name<><f4>=>cityid<><c1>=>larkspur<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>shattuck ave<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>campbell<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>american<><f2>=>house no<>
+<f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>bakery<><f4>=>locations city name<><f5>=>cityid<><c1>=>piedmont<><f1>=>max ( rating )<><f0>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>italian<><f5>=>locations city name<><f6>=>cityid<><c2>=>felton<><f0>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>foster city<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c1>=>french<><f4>=>house no<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>chinese<><f3>=>locations city name<><f4>=>cityid<><c1>=>vacaville<><f0>=>count food type<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>cafe<><f5>=>locations city name<><f6>=>cityid<><c2>=>berkeley<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>w hamilton ave<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>napa<><f2>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>half moon bay<><f3>=>locations street name<><f4>=>streetid<><c1>=>4th st<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>buttercup kitchen<><f3>=>locations city name<><f4>=>cityid<><c1>=>oakley<><f0>=>rest name count<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>medau pl<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c1>=>chinese<><f7>=>locations city name<><f8>=>cityid<><c3>=>moraga<><f4>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>san fernando<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>american<><f7>=>locations city name<><f8>=>cityid<><c3>=>fremont<><f0>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>doyle st<><f3>=>locations city name<><f4>=>cityid<><c1>=>daly city<><f0>=>house no<>
+<f0>=>house no<><f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>bakery<><f4>=>locations city name<><f5>=>cityid<><c1>=>alameda<><f1>=>max ( rating )<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f5>=>locations city name<><f6>=>cityid<><c2>=>soquel<><f0>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f5>=>locations city name<><f6>=>cityid<><c2>=>sausalito<><f0>=>house no<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>aptos<><f0>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>mountain view<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>italian<><f0>=>max ( rating )<><f1>=>house no<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f3>=>locations street name<><f4>=>streetid<><c1>=>irving<><f5>=>locations city name<><f6>=>cityid<><c2>=>charlotte<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>university avenue<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f7>=>locations city name<><f8>=>cityid<><c3>=>charlotte<><f0>=>house no<>
+<f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>chinese<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>locations city name<><f4>=>cityid<><c1>=>alameda<><f2>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>university avenue<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f7>=>locations city name<><f8>=>cityid<><c3>=>woodside<><f2>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>camino ramon<><f7>=>locations city name<><f8>=>cityid<><c3>=>fort bragg<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>french<><f0>=>house no<>
+<f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>french<><f4>=>locations city name<><f5>=>cityid<><c1>=>cupertino<><f0>=>house no<><f1>=>max ( rating )<>
+<f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>bakery<><f4>=>locations city name<><f5>=>cityid<><c1>=>napa<><f0>=>house no<><f1>=>max ( rating )<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>mowry ave<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>charlotte<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>american<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>scotts valley<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>french<><f2>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f5>=>locations city name<><f6>=>cityid<><c2>=>charlotte<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>w main ave<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>burlingame<><f2>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>dennys<><f3>=>locations city name<><f4>=>cityid<><c1>=>hayward<><f0>=>house no<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f4>=>locations city name<><f5>=>cityid<><c1>=>danville<><f0>=>max ( rating )<><f3>=>house no<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>locations city name<><f4>=>cityid<><c1>=>sunnyvale<><f2>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>hayward blvd<><f3>=>locations city name<><f4>=>cityid<><c1>=>charlotte<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>san fernando<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>cafe<><f7>=>locations city name<><f8>=>cityid<><c3>=>livermore<><f0>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f5>=>locations city name<><f6>=>cityid<><c2>=>charlotte<><f0>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>oceana blvd<><f3>=>locations city name<><f4>=>cityid<><c1>=>charlotte<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>solano ave<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>woodside<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>arabic<><f2>=>house no<>
+<f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>chinese<><f2>=>locations city name<><f3>=>cityid<><c0>=>piedmont<><f0>=>max ( rating )<><f1>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>camino ramon<><f3>=>locations city name<><f4>=>cityid<><c1>=>watsonville<><f5>=>generalinfo rating<><f6>=>ratingid<><c2>=>good<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>american<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>mowry ave<><f7>=>locations city name<><f8>=>cityid<><c3>=>san leandro<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f2>=>house no<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f3>=>locations city name<><f4>=>cityid<><c1>=>vacaville<><f0>=>count food type<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f3>=>locations city name<><f4>=>cityid<><c1>=>charlotte<><f0>=>count food type<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>pleasant hill<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f2>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>bethel island<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f0>=>count food type<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>dennys<><f3>=>locations city name<><f4>=>cityid<><c1>=>hayward<><f0>=>rest name count<>
+<f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>ice cream<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>woodside<><f2>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>n santa cruz ave<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>american<><f5>=>locations city name<><f6>=>cityid<><c2>=>charlotte<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>ariel ave<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>arabic<><f5>=>locations city name<><f6>=>cityid<><c2>=>orinda<><f0>=>house no<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>antioch<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>shoreline dr<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f7>=>locations city name<><f8>=>cityid<><c3>=>pengrove<><f0>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>san pablo<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f2>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>east palo alto<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f2>=>house no<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>locations city name<><f4>=>cityid<><c1>=>moraga<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>french<><f2>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>san pablo ave<><f7>=>locations city name<><f8>=>cityid<><c3>=>rohnert park<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f0>=>house no<>
+<f5>=>locations city name<><f6>=>cityid<><c2>=>san carlos<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>powell st<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f7>=>locations city name<><f8>=>cityid<><c3>=>aptos<><f0>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>foster city<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>italian<><f0>=>max ( rating )<><f1>=>house no<>
+<f3>=>geographic county name<><f4>=>countyid<><c1>=>santa clara county<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>french<><f5>=>county<><f0>=>count food type<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>clay st ste 600<><f3>=>locations city name<><f4>=>cityid<><c1>=>pinole<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>w hamilton ave<><f7>=>locations city name<><f8>=>cityid<><c3>=>los gatos<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>university ave<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>arabic<><f7>=>locations city name<><f8>=>cityid<><c3>=>charlotte<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>san jose<><f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>chinese<><f0>=>count food type<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>aptos<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>american<><f0>=>max ( rating )<><f1>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>w el camino real<><f7>=>locations city name<><f8>=>cityid<><c3>=>daly city<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f2>=>house no<>
+<f2>=>generalinfo food type<><f3>=>foodtypeid<><c0>=>bakery<><f4>=>locations city name<><f5>=>cityid<><c1>=>charlotte<><f1>=>max ( rating )<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>redwood city<><f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>dennys<><f0>=>rest name count<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>east palo alto<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>french<><f0>=>house no<><f1>=>max ( rating )<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>san carlos<><f3>=>generalinfo rating<><f4>=>ratingid<><c1>=>good<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>french<><f0>=>house no<>
+<f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>dennys<><f3>=>locations city name<><f4>=>cityid<><c1>=>gilroy<><f0>=>house no<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>italian<><f3>=>locations city name<><f4>=>cityid<><c1>=>carmel<><f0>=>count food type<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>willow pass rd<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>italian<><f7>=>locations city name<><f8>=>cityid<><c3>=>oakley<><f0>=>house no<>
+<f3>=>locations city name<><f4>=>cityid<><c1>=>mountain view<><f1>=>generalinfo rest name<><f2>=>restnameid<><c0>=>dennys<><f0>=>rest name count<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>amador valley blvd<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>french<><f7>=>locations city name<><f8>=>cityid<><c3>=>dublin<><f0>=>house no<>
+<f1>=>generalinfo food type<><f2>=>foodtypeid<><c0>=>arabic<><f3>=>locations city name<><f4>=>cityid<><c1>=>livermore<><f0>=>house no<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>locations city name<><f4>=>cityid<><c1>=>pittsburg<><f2>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>w el camino real<><f3>=>locations city name<><f4>=>cityid<><c1>=>san bruno<><f5>=>generalinfo rating<><f6>=>ratingid<><c2>=>good<><f7>=>generalinfo food type<><f8>=>foodtypeid<><c3>=>american<><f0>=>house no<>
+<f1>=>locations street name<><f2>=>streetid<><c0>=>willow pass rd<><f3>=>locations city name<><f4>=>cityid<><c1>=>hollister<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>port chicago hwy<><f7>=>locations city name<><f8>=>cityid<><c3>=>portola valley<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>pizza<><f2>=>house no<>
+<f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>chinese<><f5>=>locations city name<><f6>=>cityid<><c2>=>martinez<><f0>=>house no<>
+<f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f3>=>locations city name<><f4>=>cityid<><c1>=>fremont<><f2>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>fort bragg<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>chinese<><f0>=>max ( rating )<><f1>=>house no<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>pacifica<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>hayward blvd<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>bakery<><f7>=>locations city name<><f8>=>cityid<><c3>=>charlotte<><f0>=>house no<>
+<f1>=>locations city name<><f2>=>cityid<><c0>=>orinda<><f3>=>generalinfo rating<><f4>=>ratingid<><c1>=>good<><f5>=>generalinfo food type<><f6>=>foodtypeid<><c2>=>american<><f0>=>house no<>
+<f3>=>locations street name<><f4>=>streetid<><c1>=>walnut avenue<><f0>=>generalinfo rating<><f1>=>ratingid<><c0>=>good<><f5>=>locations city name<><f6>=>cityid<><c2>=>charlotte<><f2>=>house no<>
+<f2>=>locations city name<><f3>=>cityid<><c0>=>san mateo<><f4>=>generalinfo food type<><f5>=>foodtypeid<><c1>=>american<><f0>=>max ( rating )<><f1>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>walnut avenue<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>french<><f7>=>locations city name<><f8>=>cityid<><c3>=>charlotte<><f0>=>house no<>
+<f5>=>locations street name<><f6>=>streetid<><c2>=>university avenue<><f7>=>locations city name<><f8>=>cityid<><c3>=>redwood city<><f1>=>generalinfo rating<><f2>=>ratingid<><c0>=>good<><f3>=>generalinfo food type<><f4>=>foodtypeid<><c1>=>chinese<><f0>=>house no<>

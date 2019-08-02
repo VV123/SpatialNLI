@@ -1,0 +1,39 @@
+high point
+low point
+state
+capital
+population
+area
+elevation
+highest
+lowest
+border
+city
+country
+lake
+mountain
+height
+road
+length
+next to
+low
+largest
+longest
+size
+len
+count
+major
+smallest
+most
+traverse
+capital
+place
+density
+sum
+fewest
+higher
+lower
+longer
+river
+through
+shortest

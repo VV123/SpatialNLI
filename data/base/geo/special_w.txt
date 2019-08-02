@@ -1,0 +1,12 @@
+next to:surrounding,surround,surrounds,neighbor,neighboring,neighborhood,adjacent,adjoin,next to
+place:point,elevation,spot
+major:big
+usa:the united states,united states,america,us,country
+traverse:cross,lie,washed,passes
+not:no,excluding,not
+mountain:peak
+population:people,inhabitants
+elevation:height,sea level
+sum:total,combined
+len:length
+density:dense

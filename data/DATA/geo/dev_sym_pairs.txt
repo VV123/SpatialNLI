@@ -1,0 +1,280 @@
+<f0>=>state<><f1>=>argmin<>
+<f2>=>loc<><c0>=>usa<><f3>=>countryid<><f0>=>argmax<><f1>=>river<>
+<f2>=>loc<><f0>=>argmax<><f1>=>place<><f3>=>state<>
+<f2>=>loc<><f3>=>stateid<><c0>=>ohio<><f0>=>major<><f1>=>river<>
+<f2>=>loc<><c0>=>florida<><f3>=>stateid<><f0>=>major<><f1>=>river<>
+<c0>=>erie<><f1>=>cityid<><c1>=>pa<><f0>=>population<>
+<f0>=>state<><f1>=>argmin<><f2>=>density<>
+<f0>=>loc<><f1>=>argmin<><f2>=>city<>
+<f5>=>loc<><f1>=>traverse<><c0>=>austin<><f7>=>cityid<><f0>=>river<><f2>=>state<><f3>=>next to<><f4>=>state<><f6>=>capital<>
+<f2>=>loc<><c0>=>massachusetts<><f3>=>stateid<><f0>=>argmin<><f1>=>place<>
+<c0>=>maryland<><f1>=>stateid<><f0>=>population<>
+<f3>=>traverse<><f1>=>riverid<><c0>=>mississippi<><f0>=>state<><f2>=>river<>
+<f0>=>loc<><c0>=>portland<><f1>=>cityid<>
+<f1>=>loc<><f3>=>traverse<><f4>=>riverid<><c0>=>mississippi<><f0>=>city<><f2>=>state<>
+<f0>=>population<><c0>=>houston<><f1>=>cityid<>
+<f2>=>traverse<><f3>=>riverid<><c0>=>mississippi<><f0>=>population<><f1>=>state<><f4>=>river<>
+<f3>=>traverse<><f1>=>riverid<><c0>=>ohio<><f0>=>state<><f2>=>river<>
+<f0>=>state<><f1>=>argmax<><f2>=>population<>
+<c0>=>kentucky<><f2>=>stateid<><f0>=>state<><f1>=>next to<>
+<f1>=>loc<><c0>=>north dakota<><f2>=>stateid<><f0>=>capital<>
+<f2>=>loc<><f0>=>count<><c0>=>usa<><f3>=>countryid<><f1>=>city<>
+<f3>=>loc<><c0>=>usa<><f4>=>countryid<><f0>=>argmax<><f1>=>capital<><f2>=>city<>
+<c0>=>texas<><f3>=>stateid<><f0>=>population<><f1>=>state<><f2>=>next to<>
+<f1>=>loc<><f3>=>loc<><c0>=>durham<><f5>=>cityid<><f0>=>capital<><f2>=>state<><f4>=>city<>
+<f2>=>loc<><f3>=>stateid<><c0>=>kansas<><f0>=>argmax<><f1>=>city<>
+<c0>=>boulder<><f1>=>cityid<><f0>=>population<>
+<f0>=>state<><f1>=>argmax<><f2>=>population<>
+<c0>=>houston<><f1>=>cityid<><f0>=>population<>
+<f0>=>count<><f1>=>state<>
+<f0>=>state<><f1>=>next to<><f2>=>state<><f3>=>argmin<><f4>=>area<>
+<f2>=>traverse<><c0>=>indiana<><f5>=>stateid<><f0>=>argmax<><f1>=>river<><f3>=>state<><f4>=>next to<>
+<f0>=>state<><f1>=>next to<><f2>=>argmax<><f3>=>population<><f4>=>state<>
+<f2>=>loc<><c0>=>california<><f3>=>stateid<><f0>=>argmax<><f1>=>city<>
+<f2>=>loc<><c0>=>nebraska<><f5>=>stateid<><f0>=>argmax<><f1>=>river<><f3>=>state<><f4>=>next to<>
+<f1>=>loc<><c0>=>new jersey<><f2>=>stateid<><f0>=>capital<>
+<f1>=>loc<><f0>=>state<><f2>=>argmax<><f3>=>major<><f4>=>city<>
+<f0>=>count<><f1>=>riverid<><c0>=>colorado<><f2>=>river<>
+<c0>=>usa<><f2>=>countryid<><f0>=>argmax<><f1>=>place<>
+<f3>=>loc<><f0>=>population<><f4>=>stateid<><c0>=>new york<><f1>=>argmax<><f2>=>city<><f5>=>state<>
+<f1>=>loc<><f4>=>stateid<><c0>=>missouri<><f0>=>capital<><f2>=>state<><f3>=>next to<>
+<f2>=>traverse<><f0>=>len<><f1>=>river<><f3>=>argmax<><f4>=>state<>
+<f2>=>loc<><f4>=>loc<><c0>=>austin<><f6>=>cityid<><f0>=>argmax<><f1>=>place<><f3>=>state<><f5>=>capital<>
+<f1>=>loc<><f0>=>state<><f2>=>argmax<><f3>=>capital<>
+<f1>=>loc<><c0>=>massachusetts<><f2>=>stateid<><f0>=>capital<>
+<c0>=>new jersey<><f2>=>stateid<><f0>=>state<><f1>=>next to<>
+<f4>=>traverse<><f3>=>riverid<><c0>=>ohio<><f0>=>state<><f1>=>next to<><f2>=>state<>
+<f1>=>loc<><f0>=>state<><f2>=>argmax<><f3>=>place<>
+<f3>=>traverse<><f4>=>riverid<><c0>=>mississippi<><f0>=>argmax<><f1>=>population<><f2>=>state<>
+<f3>=>loc<><c0>=>alaska<><f4>=>stateid<><f0>=>argmax<><f1>=>mountain<><f2>=>not<>
+<f1>=>loc<><f0>=>state<><f2>=>argmax<><f3>=>major<><f4>=>city<>
+<f1>=>loc<><c0>=>portland<><f3>=>cityid<><f0>=>state<><f2>=>city<>
+<f2>=>loc<><f0>=>argmax<><f1>=>place<><f3>=>state<><f4>=>argmin<><f5>=>density<>
+<f3>=>loc<><f0>=>state<><f1>=>next to<><f2>=>state<><f4>=>argmax<><f5>=>major<><f6>=>city<>
+<f2>=>loc<><f0>=>argmin<><f1>=>city<><c0>=>usa<><f3>=>countryid<>
+<c0>=>hawaii<><f1>=>stateid<><f0>=>population<>
+<c0>=>indiana<><f2>=>stateid<><f0>=>state<><f1>=>next to<>
+<f2>=>loc<><f0>=>count<><c0>=>usa<><f3>=>countryid<><f1>=>state<>
+<f1>=>loc<><c0>=>illinois<><f2>=>stateid<><f0>=>capital<>
+<f0>=>river<><f1>=>traverse<><f2>=>state<><f3>=>next to<><f4>=>argmax<><f5>=>state<>
+<f0>=>state<><f1>=>next to<><f2>=>state<><f3>=>next to<><f4>=>argmax<><f5>=>state<>
+<f0>=>len<><f1>=>riverid<><c0>=>colorado<><f2>=>river<>
+<f1>=>loc<><f0>=>state<><f2>=>argmax<><f3>=>river<>
+<c0>=>kentucky<><f2>=>stateid<><f0>=>state<><f1>=>next to<>
+<c0>=>utah<><f2>=>stateid<><f0>=>state<><f1>=>next to<>
+<f1>=>loc<><f0>=>capital<><f2>=>state<><f3>=>argmax<><f4>=>density<>
+<f1>=>loc<><c0>=>plano<><f3>=>cityid<><f0>=>state<><f2>=>city<>
+<f3>=>loc<><f0>=>state<><f1>=>next to<><f2>=>state<><f4>=>argmax<><f5>=>city<>
+<f0>=>population<><c0>=>usa<><f3>=>countryid<><f1>=>argmax<><f2>=>city<>
+<f0>=>population<><c0>=>utah<><f1>=>stateid<>
+<c0>=>montana<><f2>=>stateid<><f0>=>state<><f1>=>next to<>
+<f1>=>traverse<><f2>=>stateid<><c0>=>new york<><f0>=>river<>
+<f0>=>river<><f1>=>traverse<><f2>=>state<><f3>=>next to<><f4>=>argmax<><f5>=>state<>
+<f2>=>loc<><f6>=>loc<><c0>=>alabama<><f5>=>stateid<><f0>=>count<><f1>=>state<><f3>=>place<><f4>=>lower<>
+<f1>=>traverse<><f0>=>river<><f2>=>argmax<><f3>=>state<>
+<f1>=>loc<><c0>=>texas<><f2>=>stateid<><f0>=>river<>
+<f1>=>loc<><f0>=>state<><f2>=>argmax<><f3>=>place<>
+<c0>=>austin<><f1>=>cityid<><f0>=>state<>
+<f3>=>loc<><f0>=>elevation<><c0>=>alabama<><f4>=>stateid<><f1>=>argmax<><f2>=>place<>
+<f1>=>riverid<><c0>=>mississippi<><f0>=>len<><f2>=>river<>
+<f3>=>loc<><f0>=>count<><f2>=>stateid<><c0>=>colorado<><f1>=>river<>
+<f1>=>riverid<><c0>=>mississippi<><f0>=>len<>
+<f1>=>loc<><f0>=>state<><f2>=>argmax<><f3>=>river<>
+<f0>=>population<><c0>=>austin<><f1>=>cityid<>
+<f1>=>loc<><c0>=>usa<><f2>=>countryid<><f0>=>city<><f3>=>argmax<><f4>=>density<>
+<f1>=>loc<><f0>=>state<><f2>=>river<>
+<f2>=>loc<><c0>=>usa<><f3>=>countryid<><f0>=>argmax<><f1>=>place<>
+<c0>=>florida<><f1>=>stateid<><f0>=>area<>
+<f1>=>loc<><c0>=>california<><f2>=>stateid<><f0>=>capital<>
+<f1>=>loc<><f0>=>capital<><f2>=>state<><f3>=>argmax<><f4>=>population<>
+<f1>=>loc<><f0>=>state<><f2>=>argmax<><f3>=>major<><f4>=>river<>
+<f1>=>loc<><f0>=>capital<><f2>=>state<><f3>=>argmax<><f4>=>population<>
+<f1>=>loc<><f2>=>stateid<><c0>=>ohio<><f0>=>capital<>
+<f1>=>loc<><f0>=>state<><f2>=>argmin<><f3>=>place<>
+<c0>=>san antonio<><f1>=>cityid<><f0>=>population<>
+<f0>=>count<><c0>=>iowa<><f3>=>stateid<><f1>=>state<><f2>=>next to<>
+<f3>=>traverse<><c0>=>chattahoochee<><f1>=>riverid<><f0>=>state<><f2>=>river<>
+<f0>=>population<><c0>=>detroit<><f1>=>cityid<>
+<f3>=>loc<><f0>=>count<><f1>=>state<><f2>=>not<><f4>=>river<>
+<f4>=>stateid<><c0>=>mississippi<><f0>=>state<><f1>=>next to<><f2>=>state<><f3>=>next to<>
+<f2>=>loc<><c0>=>usa<><f3>=>countryid<><f0>=>major<><f1>=>city<>
+<f0>=>argmax<><f1>=>population<><f2>=>city<>
+<f3>=>traverse<><c0>=>texas<><f4>=>stateid<><f0>=>len<><f1>=>argmax<><f2>=>river<>
+<f0>=>elevation<><c0>=>mount mckinley<><f1>=>placeid<>
+<f0>=>state<><f1>=>argmin<><f2>=>density<>
+<f2>=>loc<><f0>=>count<><c0>=>california<><f3>=>stateid<><f1>=>river<>
+<f2>=>loc<><f3>=>stateid<><c0>=>washington<><f0>=>argmax<><f1>=>river<><f4>=>state<>
+<c0>=>florida<><f1>=>stateid<><f0>=>capital<><f2>=>state<>
+<f1>=>loc<><c0>=>california<><f2>=>stateid<><f0>=>city<><f3>=>argmax<><f4>=>population<>
+<f2>=>loc<><c0>=>montana<><f3>=>stateid<><f0>=>argmax<><f1>=>place<>
+<f2>=>loc<><c0>=>california<><f4>=>stateid<><f0>=>argmin<><f1>=>place<><f3>=>state<>
+<f2>=>loc<><c0>=>alaska<><f3>=>stateid<><f0>=>major<><f1>=>city<>
+<f0>=>sum<><f1>=>area<><f2>=>state<>
+<f2>=>loc<><c0>=>nebraska<><f3>=>stateid<><f0>=>argmin<><f1>=>place<>
+<f0>=>argmin<><f1>=>state<>
+<f2>=>loc<><f0>=>count<><c0>=>iowa<><f3>=>stateid<><f1>=>river<>
+<c0>=>florida<><f2>=>stateid<><f0>=>state<><f1>=>next to<>
+<f1>=>loc<><c0>=>texas<><f2>=>stateid<><f0>=>river<>
+<f2>=>loc<><c0>=>california<><f4>=>stateid<><f0>=>major<><f1>=>city<><f3>=>state<>
+<f0>=>state<><f1>=>argmax<><f2>=>population<>
+<f2>=>loc<><f5>=>stateid<><c0>=>colorado<><f0>=>argmax<><f1>=>place<><f3>=>state<><f4>=>next to<>
+<f2>=>loc<><c0>=>hawaii<><f3>=>stateid<><f0>=>argmax<><f1>=>place<>
+<f2>=>loc<><c0>=>iowa<><f3>=>stateid<><f0>=>argmax<><f1>=>place<>
+<f2>=>traverse<><f3>=>riverid<><c0>=>mississippi<><f0>=>population<><f1>=>state<>
+<f1>=>loc<><c0>=>iowa<><f2>=>stateid<><f0>=>capital<>
+<f0>=>state<><f1>=>capital<><f2>=>argmin<><f3>=>population<>
+<f2>=>loc<><f4>=>loc<><f0>=>argmax<><f1>=>city<><f3>=>state<><f5>=>river<>
+<c0>=>hawaii<><f2>=>stateid<><f0>=>state<><f1>=>next to<>
+<f0>=>size<><c0>=>alaska<><f1>=>stateid<>
+<f3>=>stateid<><c0>=>wyoming<><f0>=>argmin<><f1>=>state<><f2>=>next to<>
+<f0>=>state<><f1>=>argmax<><f2>=>density<>
+<c0>=>pennsylvania<><f2>=>stateid<><f0>=>state<><f1>=>next to<><f3>=>argmax<><f4>=>population<>
+<f2>=>stateid<><c0>=>new york<><f0>=>state<><f1>=>next to<>
+<f2>=>loc<><c0>=>usa<><f3>=>countryid<><f0>=>argmax<><f1>=>place<>
+<f0>=>population<><c0>=>usa<><f1>=>countryid<>
+<f3>=>loc<><c0>=>texas<><f2>=>stateid<><f0>=>state<><f1>=>next to<><f4>=>major<><f5>=>river<>
+<f2>=>loc<><c0>=>maryland<><f3>=>stateid<><f0>=>argmin<><f1>=>place<>
+<f0>=>population<><f1>=>state<><f2>=>argmax<><f3>=>density<>
+<f1>=>loc<><c0>=>dallas<><f3>=>cityid<><f0>=>state<><f2>=>city<>
+<f0>=>population<><f1>=>state<><f2>=>next to<><f3>=>argmax<><f4>=>state<>
+<f0>=>count<><f1>=>state<><f2>=>next to<><f3>=>state<><f4>=>argmax<><f5>=>population<>
+<f0>=>state<><f1>=>argmax<><f2>=>area<>
+<f2>=>traverse<><f1>=>riverid<><c0>=>mississippi<><f0>=>state<>
+<f3>=>loc<><c0>=>usa<><f4>=>countryid<><f0>=>sum<><f1>=>len<><f2>=>river<>
+<f0>=>len<><f1>=>riverid<><c0>=>delaware<><f2>=>river<>
+<f1>=>loc<><f2>=>stateid<><c0>=>colorado<><f0>=>capital<>
+<f1>=>riverid<><c0>=>colorado<><f0>=>len<><f2>=>river<>
+<f0>=>density<><c0>=>usa<><f1>=>countryid<><f2>=>state<>
+<f2>=>density<><f0>=>state<><f1>=>argmin<>
+<f1>=>loc<><c0>=>rochester<><f3>=>cityid<><f0>=>state<><f2>=>city<>
+<f1>=>loc<><c0>=>idaho<><f5>=>stateid<><f0>=>state<><f2>=>argmin<><f3>=>place<><f4>=>next to<>
+<f1>=>loc<><f0>=>capital<><f2>=>argmin<><f3>=>state<>
+<f1>=>stateid<><c0>=>washington<><f0>=>population<>
+<f2>=>count<><c0>=>iowa<><f0>=>stateid<><f1>=>next to<><f3>=>state<>
+<f1>=>loc<><c0>=>austin<><f3>=>cityid<><f0>=>state<><f2>=>city<>
+<f2>=>loc<><f4>=>loc<><f0>=>count<><f1>=>river<><f3>=>state<><f5>=>argmax<><f6>=>river<>
+<f1>=>loc<><f2>=>stateid<><c0>=>new york<><f0>=>river<>
+<c0>=>maine<><f1>=>stateid<><f0>=>density<>
+<f2>=>traverse<><f0>=>len<><f1>=>river<><f3>=>argmax<><f4>=>state<>
+<f2>=>loc<><c0>=>texas<><f3>=>stateid<><f0>=>capital<><f1>=>city<>
+<f2>=>traverse<><f1>=>riverid<><c0>=>missouri<><f0>=>state<>
+<f0>=>state<><f1>=>argmax<><f2>=>area<>
+<f4>=>loc<><f0>=>traverse<><c0>=>texas<><f5>=>stateid<><f1>=>state<><f2>=>argmax<><f3>=>river<>
+<c0>=>new mexico<><f1>=>stateid<><f0>=>population<>
+<f1>=>loc<><c0>=>texas<><f4>=>stateid<><f0>=>river<><f2>=>state<><f3>=>next to<>
+<f2>=>riverid<><c0>=>missouri<><f0>=>state<><f1>=>next to<><f3>=>river<>
+<f2>=>loc<><c0>=>usa<><f3>=>countryid<><f0>=>argmin<><f1>=>city<>
+<f0>=>elevation<><c0>=>mount mckinley<><f1>=>placeid<>
+<f2>=>loc<><f3>=>stateid<><c0>=>delaware<><f0>=>argmax<><f1>=>place<>
+<f2>=>loc<><f3>=>stateid<><c0>=>mississippi<><f0>=>argmin<><f1>=>place<>
+<c0>=>miami<><f1>=>cityid<><f0>=>state<>
+<f2>=>loc<><f4>=>traverse<><f5>=>riverid<><c0>=>colorado<><f0>=>argmin<><f1>=>place<><f3>=>state<><f6>=>river<>
+<f0>=>state<><f1>=>argmin<><f2>=>major<><f3>=>river<>
+<f2>=>loc<><c0>=>louisiana<><f3>=>stateid<><f0>=>argmax<><f1>=>city<>
+<c0>=>usa<><f3>=>countryid<><f0>=>argmax<><f1>=>density<><f2>=>state<>
+<f2>=>loc<><c0>=>florida<><f3>=>stateid<><f0>=>argmax<><f1>=>river<>
+<c0>=>tempe<><f1>=>cityid<><c1>=>az<><f0>=>population<>
+<f2>=>loc<><c0>=>usa<><f5>=>countryid<><f0>=>argmax<><f1>=>city<><f3>=>argmin<><f4>=>state<>
+<c0>=>alaska<><f1>=>stateid<><f0>=>population<>
+<f2>=>loc<><c0>=>nevada<><f3>=>stateid<><f0>=>argmax<><f1>=>place<>
+<f2>=>loc<><c0>=>pennsylvania<><f3>=>stateid<><f0>=>major<><f1>=>city<>
+<f1>=>loc<><c0>=>alaska<><f2>=>stateid<><f0>=>river<>
+<f0>=>state<><f1>=>capital<><f2>=>city<><f3>=>argmax<>
+<f0>=>loc<><f1>=>mountain<>
+<f0>=>state<><f1>=>next to<><f2>=>argmax<><f3>=>state<>
+<f1>=>loc<><f3>=>loc<><f0>=>city<><f2>=>state<><f4>=>argmax<><f5>=>place<>
+<f0>=>population<><c0>=>texas<><f1>=>stateid<>
+<f2>=>loc<><f3>=>stateid<><c0>=>new york<><f0>=>major<><f1>=>city<>
+<f2>=>loc<><f0>=>argmax<><f1>=>mountain<><c0>=>usa<><f3>=>countryid<>
+<f1>=>loc<><f4>=>loc<><f5>=>riverid<><c0>=>colorado<><f0>=>state<><f2>=>argmax<><f3>=>place<><f6>=>river<><f7>=>traverse<>
+<f0>=>loc<><c0>=>dallas<><f1>=>cityid<>
+<f2>=>loc<><c0>=>usa<><f3>=>countryid<><f0>=>argmax<><f1>=>mountain<>
+<f3>=>traverse<><f1>=>riverid<><c0>=>delaware<><f0>=>state<><f2>=>river<>
+<f3>=>loc<><f0>=>elevation<><f1>=>argmax<><f2>=>place<><c0>=>usa<><f4>=>countryid<>
+<f0>=>city<><f1>=>argmax<><f2>=>population<>
+<f1>=>stateid<><c0>=>new york<><f0>=>density<>
+<c0>=>san francisco<><f2>=>cityid<><f0>=>argmax<><f1>=>place<>
+<f3>=>loc<><f0>=>count<><c0>=>rhode island<><f2>=>stateid<><f1>=>capital<>
+<f2>=>loc<><c0>=>virginia<><f3>=>stateid<><f0>=>argmax<><f1>=>place<>
+<f0>=>len<><f1>=>riverid<><c0>=>ohio<><f2>=>river<>
+<f3>=>loc<><f0>=>len<><c0>=>california<><f4>=>stateid<><f1>=>argmax<><f2>=>river<>
+<f0>=>state<><f1>=>argmin<><f2>=>area<>
+<f2>=>traverse<><c0>=>texas<><f3>=>stateid<><f0>=>river<><f1>=>not<>
+<f1>=>loc<><f5>=>traverse<><f0>=>state<><f2>=>argmax<><f3>=>major<><f4>=>river<>
+<f2>=>loc<><c0>=>usa<><f3>=>countryid<><f0>=>argmin<><f1>=>place<>
+<f1>=>cityid<><c0>=>new york<><f0>=>population<><f2>=>city<>
+<f0>=>state<><f1>=>argmax<><f2>=>population<>
+<c0>=>texas<><f3>=>stateid<><f0>=>argmax<><f1>=>state<><f2>=>next to<>
+<f2>=>loc<><c0>=>rhode island<><f3>=>stateid<><f0>=>argmax<><f1>=>city<>
+<c0>=>tucson<><f1>=>cityid<><f0>=>population<>
+<f2>=>loc<><c0>=>maine<><f3>=>stateid<><f0>=>argmax<><f1>=>place<>
+<f0>=>population<><c0>=>minneapolis<><f1>=>cityid<><c1>=>mn<>
+<f2>=>traverse<><c0>=>usa<><f3>=>countryid<><f0>=>river<><f1>=>not<>
+<f1>=>loc<><f2>=>stateid<><c0>=>colorado<><f0>=>river<>
+<f2>=>loc<><f0>=>argmax<><f1>=>river<><f3>=>argmax<><f4>=>state<>
+<f0>=>state<><f1>=>argmin<><f2>=>density<>
+<f1>=>loc<><f3>=>loc<><f0>=>capital<><f2>=>state<><f4>=>argmin<><f5>=>place<>
+<f3>=>loc<><f0>=>len<><c0>=>usa<><f4>=>countryid<><f1>=>argmax<><f2>=>river<>
+<f0>=>count<><c0>=>iowa<><f3>=>stateid<><f1>=>state<><f2>=>next to<>
+<f2>=>loc<><c0>=>georgia<><f5>=>stateid<><f0>=>argmax<><f1>=>place<><f3>=>state<><f4>=>next to<>
+<c0>=>san antonio<><f0>=>cityid<><f1>=>state<>
+<f0>=>river<><f1>=>traverse<><f2>=>argmax<><f3>=>state<>
+<f1>=>stateid<><c0>=>ohio<><f0>=>area<>
+<f2>=>loc<><f4>=>loc<><f0>=>argmax<><f1>=>river<><f3>=>state<><f5>=>argmax<><f6>=>major<><f7>=>city<>
+<f3>=>traverse<><f0>=>state<><f1>=>argmax<><f2>=>river<>
+<f3>=>loc<><f0>=>count<><c0>=>usa<><f2>=>countryid<><f1>=>state<>
+<f3>=>loc<><f0>=>population<><f1>=>argmax<><f2>=>city<><f4>=>state<><f5>=>argmax<><f6>=>area<>
+<f1>=>loc<><f2>=>stateid<><c0>=>wyoming<><f0>=>high point<>
+<f2>=>loc<><f0>=>argmax<><f1>=>mountain<><c0>=>usa<><f3>=>countryid<>
+<f0>=>population<><c0>=>texas<><f1>=>stateid<>
+<f2>=>loc<><c0>=>alabama<><f3>=>stateid<><f0>=>major<><f1>=>city<>
+<f0>=>argmin<><f1>=>state<><f2>=>next to<><f3>=>argmax<><f4>=>state<>
+<f1>=>loc<><c0>=>texas<><f2>=>stateid<><f0>=>river<>
+<f0>=>argmin<><f1>=>population<><f2>=>state<>
+<f0>=>density<><f1>=>argmax<><f2>=>state<>
+<f1>=>traverse<><f0>=>river<><f2>=>argmax<><f3>=>state<>
+<f2>=>loc<><c0>=>mount mckinley<><f1>=>placeid<><f0>=>state<>
+<f1>=>traverse<><f0>=>river<><f2>=>argmax<><f3>=>state<>
+<f2>=>loc<><f4>=>traverse<><f5>=>stateid<><c0>=>mississippi<><f0>=>major<><f1>=>city<><f3>=>state<>
+<c0>=>texas<><f2>=>stateid<><f0>=>argmax<><f1>=>place<>
+<c0>=>illinois<><f2>=>stateid<><f0>=>state<><f1>=>next to<>
+<f0>=>count<><f2>=>stateid<><c0>=>tennessee<><f1>=>state<><f3>=>next to<>
+<f0>=>population<><c0>=>rhode island<><f1>=>stateid<>
+<f0>=>population<><c0>=>boulder<><f1>=>cityid<>
+<f1>=>loc<><c0>=>texas<><f2>=>stateid<><f0>=>city<>
+<f3>=>loc<><f1>=>traverse<><f0>=>river<><f2>=>state<><f4>=>argmax<><f5>=>city<>
+<f0>=>state<><f1>=>next to<><f2>=>state<><f3>=>argmin<><f4>=>area<>
+<c0>=>michigan<><f2>=>stateid<><f0>=>state<><f1>=>next to<>
+<f3>=>stateid<><c0>=>arkansas<><f0>=>argmax<><f1>=>state<><f2>=>next to<>
+<f0>=>len<><c0>=>north platte<><f1>=>riverid<><f2>=>river<>
+<c0>=>nevada<><f2>=>stateid<><f0>=>state<><f1>=>next to<><f3>=>argmax<><f4>=>population<>
+<f1>=>loc<><f2>=>stateid<><c0>=>new york<><f0>=>capital<>
+<f3>=>loc<><f1>=>traverse<><f0>=>river<><f2>=>state<><f4>=>argmin<><f5>=>city<>
+<f3>=>loc<><c0>=>texas<><f4>=>stateid<><f0>=>population<><f1>=>major<><f2>=>city<>
+<f1>=>loc<><f3>=>loc<><f0>=>capital<><f2>=>state<><f4>=>argmax<><f5>=>river<>
+<f1>=>loc<><f0>=>state<><f2>=>argmax<><f3>=>river<>
+<f2>=>loc<><f0>=>population<><c0>=>texas<><f3>=>stateid<><f1>=>capital<>
+<c0>=>new mexico<><f3>=>stateid<><f0>=>argmax<><f1>=>population<><f2>=>area<>
+<f2>=>loc<><f7>=>loc<><f9>=>loc<><f13>=>loc<><f0>=>count<><f1>=>state<><f3>=>higher<><f4>=>place<><f5>=>argmax<><f6>=>place<><f8>=>state<><f10>=>argmax<><f11>=>capital<><f12>=>city<><c0>=>usa<><f14>=>countryid<>
+<f0>=>population<><f1>=>stateid<><c0>=>mississippi<>
+<f4>=>traverse<><f5>=>riverid<><c0>=>mississippi<><f0>=>argmax<><f1>=>city<><f2>=>argmin<><f3>=>state<>
+<f1>=>loc<><c0>=>salt lake city<><f3>=>cityid<><f0>=>state<><f2>=>city<>
+<f0>=>state<><f1>=>argmin<><f2>=>population<>
+<f3>=>loc<><f0>=>elevation<><c0>=>montana<><f4>=>stateid<><f1>=>argmax<><f2>=>place<>
+<f4>=>traverse<><f2>=>riverid<><c0>=>mississippi<><f0>=>argmin<><f1>=>state<><f3>=>river<>
+<c0>=>texas<><f1>=>stateid<><f0>=>area<><f2>=>state<>
+<f2>=>loc<><c0>=>vermont<><f3>=>stateid<><f0>=>major<><f1>=>city<>
+<f3>=>loc<><f0>=>argmax<><f1>=>capital<><f2>=>city<><c0>=>usa<><f4>=>countryid<>
+<c0>=>chattahoochee<><f0>=>riverid<><f1>=>river<>
+<c0>=>utah<><f1>=>stateid<><f0>=>population<>
+<f2>=>loc<><f0>=>count<><c0>=>usa<><f3>=>countryid<><f1>=>state<>
+<c0>=>arizona<><f2>=>stateid<><f1>=>next to<><f0>=>state<>
+<f2>=>loc<><f3>=>stateid<><c0>=>arkansas<><f0>=>argmin<><f1>=>place<>
+<f0>=>argmax<><f1>=>population<><f2>=>state<>
+<f1>=>stateid<><c0>=>mississippi<><f0>=>population<>
+<f0>=>state<><f1>=>next to<><f2>=>argmax<><f3>=>state<>
+<c0>=>usa<><f0>=>countryid<><f1>=>city<><f2>=>argmax<><f3>=>density<>
+<c0>=>wisconsin<><f1>=>stateid<><f0>=>area<>
+<f0>=>size<><c0>=>texas<><f1>=>stateid<>
+<f0>=>population<><f1>=>argmin<><f2>=>state<>
+<f4>=>loc<><f6>=>traverse<><c0>=>usa<><f5>=>countryid<><f0>=>density<><f1>=>state<><f2>=>argmax<><f3>=>river<>

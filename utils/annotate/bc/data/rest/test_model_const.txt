@@ -1,0 +1,10 @@
+give me some good places for <f0> pizza <eof> on el camino in palo alto <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>	foodtype	1
+give me some good places for <f0> pizza <eof> on el camino in palo alto <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>	street	0
+give me some good places for <f0> pizza <eof> on el camino in palo alto <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>	city	0
+give me some good places for <f0> pizza <eof> on el camino in palo alto <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>	region	0
+give me some good places for <f0> pizza <eof> on el camino in palo alto <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>	rest	0
+give me some good places for <f0> pizza <eof> on el camino in palo alto <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>	foodtype	1
+give me some good places for <f0> pizza <eof> on el camino in palo alto <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>	street	0
+give me some good places for <f0> pizza <eof> on el camino in palo alto <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>	city	0
+give me some good places for <f0> pizza <eof> on el camino in palo alto <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>	region	0
+give me some good places for <f0> pizza <eof> on el camino in palo alto <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>	rest	0
