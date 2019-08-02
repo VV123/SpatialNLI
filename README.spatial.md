@@ -75,10 +75,9 @@ For example, "How many rivers are found in `colorado` ?", to infer whether `colo
 | Shared       |**90.7%**       |**100%**        |
 --->
 
-  
-## Miscellaneous
+ 
 
-  Make sure the size of the test set is divisible by batch_size while evaluation.
+  [Warning] Make sure the size of the test set is divisible by batch_size while evaluation.
 
 
   
