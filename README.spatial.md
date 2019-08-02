@@ -29,7 +29,7 @@ Directory
 
 To build data
 
-```embed.py```
+```python embed.py```
 
 To train a new model
 
