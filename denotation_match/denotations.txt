@@ -1,0 +1,560 @@
+{[district of columbia:stateid/2]}
+{[missouri:riverid/2]}
+{[mount mckinley:placeid/2]}
+{}
+{[chattahoochee:riverid/2]}
+{[119123count]}
+{[alaska:stateid/2]}
+{[california:stateid/2],[usa:countryid/2]}
+{[gila:riverid/2],[washita:riverid/2],[pecos:riverid/2],[arkansas:riverid/2],[cimarron:riverid/2],[white:riverid/2],[rio grande:riverid/2],[mississippi:riverid/2],[pearl:riverid/2],[canadian:riverid/2],[red:riverid/2],[neosho:riverid/2],[ouachita:riverid/2],[san juan:riverid/2],[st. francis:riverid/2]}
+{[atlantic ocean:placeid/2]}
+{[4217000count]}
+{[iowa:stateid/2],[wisconsin:stateid/2],[kentucky:stateid/2],[mississippi:stateid/2],[minnesota:stateid/2],[louisiana:stateid/2],[missouri:stateid/2],[illinois:stateid/2],[tennessee:stateid/2],[arkansas:stateid/2]}
+{[oregon:stateid/2],[usa:countryid/2],[maine:stateid/2]}
+{[waukegan_il:cityid/3],[baton rouge_la:cityid/3],[covington_ky:cityid/3],[louisville_ky:cityid/3],[evanston_il:cityid/3],[biloxi_ms:cityid/3],[madison_wi:cityid/3],[des moines_ia:cityid/3],[peoria_il:cityid/3],[milwaukee_wi:cityid/3],[columbia_mo:cityid/3],[springfield_mo:cityid/3],[independence_mo:cityid/3],[st. louis_mo:cityid/3],[rochester_mn:cityid/3],[oak lawn_il:cityid/3],[bloomington_mn:cityid/3],[waterloo_ia:cityid/3],[rockford_il:cityid/3],[minneapolis_mn:cityid/3],[cicero_il:cityid/3],[jackson_ms:cityid/3],[memphis_tn:cityid/3],[cedar rapids_ia:cityid/3],[hattiesburg_ms:cityid/3],[chattanooga_tn:cityid/3],[nashville_tn:cityid/3],[little rock_ar:cityid/3],[pine bluff_ar:cityid/3],[racine_wi:cityid/3],[lexington_ky:cityid/3],[new orleans_la:cityid/3],[monroe_la:cityid/3],[champaign_il:cityid/3],[fort smith_ar:cityid/3],[arlington heights_il:cityid/3],[dubuque_ia:cityid/3],[west allis_wi:cityid/3],[st. paul_mn:cityid/3],[meridian_ms:cityid/3],[duluth_mn:cityid/3],[skokie_il:cityid/3],[sioux city_ia:cityid/3],[kenosha_wi:cityid/3],[appleton_wi:cityid/3],[green bay_wi:cityid/3],[st. joseph_mo:cityid/3],[chicago_il:cityid/3],[owensboro_ky:cityid/3],[joliet_il:cityid/3],[knoxville_tn:cityid/3],[springfield_il:cityid/3],[aurora_il:cityid/3],[metairie_la:cityid/3],[decatur_il:cityid/3],[north little rock_ar:cityid/3],[lake charles_la:cityid/3],[davenport_ia:cityid/3],[kansas city_mo:cityid/3],[lafayette_la:cityid/3],[elgin_il:cityid/3],[shreveport_la:cityid/3],[kenner_la:cityid/3]}
+{[1595138count]}
+{[2364000count],[4206000count],[4916000count],[2286000count],[4700000count],[2913000count],[2520000count],[4076000count],[4591000count],[11400000count]}
+{[kentucky:stateid/2],[indiana:stateid/2],[pennsylvania:stateid/2],[illinois:stateid/2],[ohio:stateid/2],[west virginia:stateid/2]}
+{[california:stateid/2]}
+{[virginia:stateid/2],[indiana:stateid/2],[missouri:stateid/2],[illinois:stateid/2],[tennessee:stateid/2],[ohio:stateid/2],[west virginia:stateid/2]}
+{[bismarck_nd:cityid/3]}
+{[435count]}
+Example FAILED TO PARSE
+{[2286000count],[4206000count],[3025000count],[1303000count]}
+{[raleigh_nc:cityid/3]}
+{[wichita_ks:cityid/3]}
+{[76685count]}
+{[california:stateid/2]}
+{[1595138count]}
+Example FAILED TO PARSE
+{[virginia:stateid/2],[maryland:stateid/2]}
+{[mississippi:riverid/2]}
+Example FAILED TO PARSE
+{[los angeles_ca:cityid/3]}
+{[missouri:riverid/2]}
+{[trenton_nj:cityid/3]}
+Example FAILED TO EXECUTE
+Example FAILED TO PARSE
+{[mount mckinley:placeid/2]}
+{[7071639count]}
+{[frankfort_ky:cityid/3],[des moines_ia:cityid/3],[oklahoma city_ok:cityid/3],[nashville_tn:cityid/3],[little rock_ar:cityid/3],[lincoln_ne:cityid/3],[topeka_ks:cityid/3],[springfield_il:cityid/3]}
+Example FAILED TO EXECUTE
+{[guadalupe peak:placeid/2]}
+{[arizona:stateid/2]}
+{[boston_ma:cityid/3]}
+{[new york:stateid/2],[delaware:stateid/2],[pennsylvania:stateid/2]}
+{[new jersey:stateid/2],[new york:stateid/2],[delaware:stateid/2],[iowa:stateid/2],[wisconsin:stateid/2],[kentucky:stateid/2],[virginia:stateid/2],[indiana:stateid/2],[pennsylvania:stateid/2],[michigan:stateid/2],[missouri:stateid/2],[illinois:stateid/2],[tennessee:stateid/2],[ohio:stateid/2],[west virginia:stateid/2],[maryland:stateid/2]}
+{[alaska:stateid/2]}
+{[Join failed syntactically: {[mississippi,mississippi:riverid/2,mississippi:riverid/2,wisconsin:stateid/2],[mississippi,mississippi:riverid/2,mississippi:riverid/2,iowa:stateid/2],[mississippi,mississippi:riverid/2,mississippi:riverid/2,usa:countryid/2],[mississippi,mississippi:riverid/2,mississippi:riverid/2,arkansas:stateid/2],[mississippi,mississippi:riverid/2,mississippi:riverid/2,mississippi:stateid/2],[mississippi,mississippi:riverid/2,mississippi:riverid/2,minnesota:stateid/2],[mississippi,mississippi:riverid/2,mississippi:riverid/2,louisiana:stateid/2],[mississippi,mississippi:riverid/2,mississippi:riverid/2,kentucky:stateid/2],[mississippi,mississippi:riverid/2,mississippi:riverid/2,tennessee:stateid/2],[mississippi,mississippi:riverid/2,mississippi:riverid/2,missouri:stateid/2],[mississippi,mississippi:riverid/2,mississippi:riverid/2,illinois:stateid/2]}
+Example FAILED TO PARSE
+Example FAILED TO EXECUTE
+{[oregon:stateid/2],[maine:stateid/2]}
+{[mount mckinley:placeid/2]}
+Example FAILED TO EXECUTE
+{[scotts valley_ca:cityid/3]}
+{[964000count]}
+{[michigan:stateid/2],[ohio:stateid/2],[kentucky:stateid/2],[illinois:stateid/2]}
+{[51count]}
+{[springfield_il:cityid/3]}
+Example FAILED TO EXECUTE
+Example FAILED TO EXECUTE
+{[2333000length]}
+{[iowa:stateid/2],[south dakota:stateid/2],[north dakota:stateid/2],[missouri:stateid/2],[nebraska:stateid/2],[montana:stateid/2]}
+{[virginia:stateid/2],[indiana:stateid/2],[missouri:stateid/2],[illinois:stateid/2],[tennessee:stateid/2],[ohio:stateid/2],[west virginia:stateid/2]}
+{[nevada:stateid/2],[idaho:stateid/2],[colorado:stateid/2],[wyoming:stateid/2],[new mexico:stateid/2],[arizona:stateid/2]}
+{[trenton_nj:cityid/3]}
+{[texas:stateid/2]}
+Example FAILED TO EXECUTE
+{[7071639count]}
+{[1461000count]}
+{[south dakota:stateid/2],[wyoming:stateid/2],[north dakota:stateid/2],[idaho:stateid/2]}
+{[delaware:riverid/2],[hudson:riverid/2],[allegheny:riverid/2]}
+Example FAILED TO EXECUTE
+Example FAILED TO PARSE
+Example FAILED TO EXECUTE
+{[washita:riverid/2],[pecos:riverid/2],[rio grande:riverid/2],[canadian:riverid/2],[red:riverid/2]}
+{[alaska:stateid/2]}
+{[texas:stateid/2]}
+{[734length]}
+{[3778000length]}
+{[10count]}
+{[3778000length]}
+Example FAILED TO EXECUTE
+{[345496count]}
+{[seattle_wa:cityid/3]}
+{[new jersey:stateid/2],[new york:stateid/2],[vermont:stateid/2],[delaware:stateid/2],[iowa:stateid/2],[wisconsin:stateid/2],[nevada:stateid/2],[kentucky:stateid/2],[utah:stateid/2],[massachusetts:stateid/2],[oregon:stateid/2],[virginia:stateid/2],[indiana:stateid/2],[new hampshire:stateid/2],[south dakota:stateid/2],[mississippi:stateid/2],[minnesota:stateid/2],[idaho:stateid/2],[colorado:stateid/2],[district of columbia:stateid/2],[louisiana:stateid/2],[alabama:stateid/2],[north dakota:stateid/2],[wyoming:stateid/2],[pennsylvania:stateid/2],[georgia:stateid/2],[michigan:stateid/2],[missouri:stateid/2],[texas:stateid/2],[illinois:stateid/2],[tennessee:stateid/2],[south carolina:stateid/2],[new mexico:stateid/2],[oklahoma:stateid/2],[arkansas:stateid/2],[washington:stateid/2],[connecticut:stateid/2],[kansas:stateid/2],[california:stateid/2],[nebraska:stateid/2],[ohio:stateid/2],[north carolina:stateid/2],[florida:stateid/2],[west virginia:stateid/2],[montana:stateid/2],[maryland:stateid/2],[arizona:stateid/2]}
+{[mount mckinley:placeid/2]}
+{[1.78e+11length^2]}
+{[sacramento_ca:cityid/3]}
+{[sacramento_ca:cityid/3]}
+Example FAILED TO EXECUTE
+{[sacramento_ca:cityid/3]}
+{[columbus_oh:cityid/3]}
+{[california:stateid/2]}
+{[785880count]}
+{[6count]}
+{[georgia:stateid/2],[florida:stateid/2]}
+{[1203339count]}
+Example FAILED TO PARSE
+{[kentucky:stateid/2],[virginia:stateid/2],[mississippi:stateid/2],[louisiana:stateid/2],[alabama:stateid/2],[georgia:stateid/2],[missouri:stateid/2],[texas:stateid/2],[tennessee:stateid/2],[oklahoma:stateid/2],[arkansas:stateid/2],[north carolina:stateid/2],[florida:stateid/2]}
+{[oxnard_ca:cityid/3],[bristol township_pa:cityid/3],[santa barbara_ca:cityid/3],[buena park_ca:cityid/3],[fayetteville_nc:cityid/3],[orlando_fl:cityid/3],[san angelo_tx:cityid/3],[downey_ca:cityid/3],[greenville_sc:cityid/3],[concord_ca:cityid/3],[richardson_tx:cityid/3],[columbia_sc:cityid/3],[waukegan_il:cityid/3],[orange_ca:cityid/3],[pomona_ca:cityid/3],[lowell_ma:cityid/3],[charleston_sc:cityid/3],[largo_fl:cityid/3],[clearwater_fl:cityid/3],[bayonne_nj:cityid/3],[manchester_nh:cityid/3],[amarillo_tx:cityid/3],[vallejo_ca:cityid/3],[grand prairie_tx:cityid/3],[san bernardino_ca:cityid/3],[lakewood_oh:cityid/3],[bethesda_md:cityid/3],[evanston_il:cityid/3],[medford_ma:cityid/3],[san leandro_ca:cityid/3],[lakewood_co:cityid/3],[pueblo_co:cityid/3],[great falls_mt:cityid/3],[boise_id:cityid/3],[modesto_ca:cityid/3],[richmond_ca:cityid/3],[north charleston_sc:cityid/3],[westminster_ca:cityid/3],[mountain view_ca:cityid/3],[bellevue_wa:cityid/3],[reno_nv:cityid/3],[warwick_ri:cityid/3],[schenectady_ny:cityid/3],[sterling heights_mi:cityid/3],[peoria_il:cityid/3],[santa clara_ca:cityid/3],[bethlehem_pa:cityid/3],[utica_ny:cityid/3],[salem_or:cityid/3],[columbia_mo:cityid/3],[alexandria_va:cityid/3],[springfield_mo:cityid/3],[raleigh_nc:cityid/3],[winston-salem_nc:cityid/3],[portsmouth_va:cityid/3],[livonia_mi:cityid/3],[lawton_ok:cityid/3],[fargo_nd:cityid/3],[citrus heights_ca:cityid/3],[waterford_mi:cityid/3],[independence_mo:cityid/3],[silver spring_md:cityid/3],[waco_tx:cityid/3],[carson_ca:cityid/3],[bristol_ct:cityid/3],[glendale_ca:cityid/3],[wyoming_mi:cityid/3],[rochester_mn:cityid/3],[beaumont_tx:cityid/3],[oceanside_ca:cityid/3],[oak lawn_il:cityid/3],[east orange_nj:cityid/3],[scranton_pa:cityid/3],[westland_mi:cityid/3],[south gate_ca:cityid/3],[bloomington_mn:cityid/3],[royal oak_mi:cityid/3],[terre haute_in:cityid/3],[ogden_ut:cityid/3],[longview_tx:cityid/3],[anderson_in:cityid/3],[springfield_oh:cityid/3],[waterloo_ia:cityid/3],[troy_mi:cityid/3],[rockford_il:cityid/3],[somerville_ma:cityid/3],[lynn_ma:cityid/3],[quincy_ma:cityid/3],[cicero_il:cityid/3],[stockton_ca:cityid/3],[scotts valley_ca:cityid/3],[garden grove_ca:cityid/3],[east los angeles_ca:cityid/3],[huntington_wv:cityid/3],[norwalk_ct:cityid/3],[bridgeport_ct:cityid/3],[ontario_ca:cityid/3],[alhambra_ca:cityid/3],[lorain_oh:cityid/3],[penn hills_pa:cityid/3],[macon_ga:cityid/3],[costa mesa_ca:cityid/3],[irvine_ca:cityid/3],[billings_mt:cityid/3],[dearborn heights_mi:cityid/3],[wilmington_de:cityid/3],[hayward_ca:cityid/3],[irving_tx:cityid/3],[scottsdale_az:cityid/3],[cedar rapids_ia:cityid/3],[santa monica_ca:cityid/3],[kettering_oh:cityid/3],[santa rosa_ca:cityid/3],[gainesville_fl:cityid/3],[kendall_fl:cityid/3],[el cajon_ca:cityid/3],[west covina_ca:cityid/3],[arvada_co:cityid/3],[brownsville_tx:cityid/3],[sioux falls_sd:cityid/3],[kalamazoo_mi:cityid/3],[south bend_in:cityid/3],[clifton_nj:cityid/3],[chula vista_ca:cityid/3],[euclid_oh:cityid/3],[redondo beach_ca:cityid/3],[hartford_ct:cityid/3],[mesquite_tx:cityid/3],[clinton_mi:cityid/3],[burbank_ca:cityid/3],[farmington hills_mi:cityid/3],[middletown_nj:cityid/3],[pasadena_tx:cityid/3],[racine_wi:cityid/3],[youngstown_oh:cityid/3],[huntsville_al:cityid/3],[cheektowaga_ny:cityid/3],[framingham_ma:cityid/3],[monroe_la:cityid/3],[tallahassee_fl:cityid/3],[champaign_il:cityid/3],[tuscaloosa_al:cityid/3],[boulder_co:cityid/3],[berkeley_ca:cityid/3],[inglewood_ca:cityid/3],[woodbridge_nj:cityid/3],[reading_pa:cityid/3],[newport news_va:cityid/3],[wichita falls_tx:cityid/3],[fort smith_ar:cityid/3],[danbury_ct:cityid/3],[mount vernon_ny:cityid/3],[fort collins_co:cityid/3],[ann arbor_mi:cityid/3],[waltham_ma:cityid/3],[nashua_nh:cityid/3],[alameda_ca:cityid/3],[stamford_ct:cityid/3],[arlington heights_il:cityid/3],[san mateo_ca:cityid/3],[el monte_ca:cityid/3],[laredo_tx:cityid/3],[high point_nc:cityid/3],[dubuque_ia:cityid/3],[sunnyvale_ca:cityid/3],[charleston_wv:cityid/3],[fairfield_ca:cityid/3],[newport beach_ca:cityid/3],[dundalk_md:cityid/3],[meriden_ct:cityid/3],[west allis_wi:cityid/3],[lynchburg_va:cityid/3],[west hartford_ct:cityid/3],[southfield_mi:cityid/3],[paterson_nj:cityid/3],[altoona_pa:cityid/3],[lansing_mi:cityid/3],[hollywood_fl:cityid/3],[st. clair shores_mi:cityid/3],[mcallen_tx:cityid/3],[abilene_tx:cityid/3],[ventura_ca:cityid/3],[new bedford_ma:cityid/3],[tempe_az:cityid/3],[garland_tx:cityid/3],[plano_tx:cityid/3],[pensacola_fl:cityid/3],[duluth_mn:cityid/3],[greenwich_ct:cityid/3],[skokie_il:cityid/3],[elyria_oh:cityid/3],[sioux city_ia:cityid/3],[bakersfield_ca:cityid/3],[niagara falls_ny:cityid/3],[thousand oaks_ca:cityid/3],[cranston_ri:cityid/3],[evansville_in:cityid/3],[trenton_nj:cityid/3],[redford_mi:cityid/3],[kenosha_wi:cityid/3],[durham_nc:cityid/3],[fremont_ca:cityid/3],[camden_nj:cityid/3],[miami beach_fl:cityid/3],[odessa_tx:cityid/3],[appleton_wi:cityid/3],[muncie_in:cityid/3],[overland park_ks:cityid/3],[green bay_wi:cityid/3],[topeka_ks:cityid/3],[edison_nj:cityid/3],[waterbury_ct:cityid/3],[hampton_va:cityid/3],[west valley_ut:cityid/3],[st. joseph_mo:cityid/3],[savannah_ga:cityid/3],[torrance_ca:cityid/3],[lakewood_ca:cityid/3],[casper_wy:cityid/3],[hammond_in:cityid/3],[irvington_nj:cityid/3],[abingdon_pa:cityid/3],[eugene_or:cityid/3],[joliet_il:cityid/3],[simi valley_ca:cityid/3],[west palm beach_fl:cityid/3],[dearborn_mi:cityid/3],[cherry hill_nj:cityid/3],[new haven_ct:cityid/3],[lawrence_ma:cityid/3],[chesapeake_va:cityid/3],[springfield_il:cityid/3],[erie_pa:cityid/3],[compton_ca:cityid/3],[levittown_ny:cityid/3],[aurora_il:cityid/3],[albany_ny:cityid/3],[elizabeth_nj:cityid/3],[pontiac_mi:cityid/3],[whittier_ca:cityid/3],[decatur_il:cityid/3],[pawtucket_ri:cityid/3],[koolaupoko_hi:cityid/3],[north little rock_ar:cityid/3],[lake charles_la:cityid/3],[fullerton_ca:cityid/3],[davenport_ia:cityid/3],[fall river_ma:cityid/3],[brockton_ma:cityid/3],[midland_tx:cityid/3],[new rochelle_ny:cityid/3],[lafayette_la:cityid/3],[parma_oh:cityid/3],[allentown_pa:cityid/3],[provo_ut:cityid/3],[upper darby_pa:cityid/3],[daly city_ca:cityid/3],[salinas_ca:cityid/3],[norwalk_ca:cityid/3],[roanoke_va:cityid/3],[pasadena_ca:cityid/3],[port arthur_tx:cityid/3],[newton_ma:cityid/3],[glendale_az:cityid/3],[tyler_tx:cityid/3],[new britain_ct:cityid/3],[escondido_ca:cityid/3],[elgin_il:cityid/3],[cambridge_ma:cityid/3],[lower merion_pa:cityid/3],[irondequoit_ny:cityid/3],[norman_ok:cityid/3],[portland_me:cityid/3],[taylor_mi:cityid/3],[albany_ga:cityid/3],[hamilton_oh:cityid/3],[saginaw_mi:cityid/3],[kenner_la:cityid/3],[canton_oh:cityid/3]}
+{[new york_ny:cityid/3]}
+{[3033000length]}
+{[6194length]}
+{[alaska:stateid/2]}
+{[1count]}
+{[columbia:riverid/2]}
+{[tallahassee_fl:cityid/3]}
+{[los angeles_ca:cityid/3]}
+{[granite peak:placeid/2]}
+{[death valley:placeid/2]}
+{}
+Example FAILED TO EXECUTE
+{[southeast corner:placeid/2]}
+{[district of columbia:stateid/2]}
+{[2count]}
+{[georgia:stateid/2],[alabama:stateid/2]}
+{[washita:riverid/2],[pecos:riverid/2],[rio grande:riverid/2],[canadian:riverid/2],[red:riverid/2]}
+{[oxnard_ca:cityid/3],[santa barbara_ca:cityid/3],[buena park_ca:cityid/3],[downey_ca:cityid/3],[concord_ca:cityid/3],[orange_ca:cityid/3],[pomona_ca:cityid/3],[vallejo_ca:cityid/3],[san bernardino_ca:cityid/3],[san leandro_ca:cityid/3],[modesto_ca:cityid/3],[richmond_ca:cityid/3],[westminster_ca:cityid/3],[mountain view_ca:cityid/3],[santa clara_ca:cityid/3],[citrus heights_ca:cityid/3],[carson_ca:cityid/3],[glendale_ca:cityid/3],[oceanside_ca:cityid/3],[south gate_ca:cityid/3],[stockton_ca:cityid/3],[scotts valley_ca:cityid/3],[garden grove_ca:cityid/3],[east los angeles_ca:cityid/3],[ontario_ca:cityid/3],[alhambra_ca:cityid/3],[costa mesa_ca:cityid/3],[irvine_ca:cityid/3],[hayward_ca:cityid/3],[santa monica_ca:cityid/3],[santa rosa_ca:cityid/3],[el cajon_ca:cityid/3],[west covina_ca:cityid/3],[chula vista_ca:cityid/3],[redondo beach_ca:cityid/3],[burbank_ca:cityid/3],[berkeley_ca:cityid/3],[inglewood_ca:cityid/3],[alameda_ca:cityid/3],[san mateo_ca:cityid/3],[el monte_ca:cityid/3],[sunnyvale_ca:cityid/3],[fairfield_ca:cityid/3],[newport beach_ca:cityid/3],[ventura_ca:cityid/3],[bakersfield_ca:cityid/3],[thousand oaks_ca:cityid/3],[fremont_ca:cityid/3],[torrance_ca:cityid/3],[lakewood_ca:cityid/3],[simi valley_ca:cityid/3],[compton_ca:cityid/3],[whittier_ca:cityid/3],[fullerton_ca:cityid/3],[daly city_ca:cityid/3],[salinas_ca:cityid/3],[norwalk_ca:cityid/3],[pasadena_ca:cityid/3],[escondido_ca:cityid/3]}
+{[california:stateid/2]}
+{[gannett peak:placeid/2]}
+{[mauna kea:placeid/2]}
+{[ocheyedan mound:placeid/2]}
+{[2364000count],[4206000count],[4916000count],[2286000count],[4700000count],[2913000count],[2520000count],[4076000count],[4591000count],[11400000count]}
+{[des moines_ia:cityid/3]}
+Example FAILED TO PARSE
+{[new york_ny:cityid/3]}
+{}
+{[1.53e+12length^2]}
+{[south dakota:stateid/2]}
+{[new jersey:stateid/2]}
+{[new york:stateid/2]}
+{[new jersey:stateid/2],[vermont:stateid/2],[massachusetts:stateid/2],[pennsylvania:stateid/2],[connecticut:stateid/2]}
+{[mount mckinley:placeid/2]}
+{[307890000count]}
+Example FAILED TO PARSE
+{[atlantic ocean:placeid/2]}
+{[7365000count]}
+{[texas:stateid/2]}
+Example FAILED TO EXECUTE
+{[3count]}
+{[alaska:stateid/2]}
+{[iowa:stateid/2],[wisconsin:stateid/2],[kentucky:stateid/2],[mississippi:stateid/2],[minnesota:stateid/2],[louisiana:stateid/2],[missouri:stateid/2],[illinois:stateid/2],[tennessee:stateid/2],[arkansas:stateid/2]}
+Example FAILED TO EXECUTE
+{[451000length]}
+{[denver_co:cityid/3]}
+{[2333000length]}
+{[3.13e-05count/length^2]}
+{[alaska:stateid/2]}
+{[minnesota:stateid/2],[new york:stateid/2]}
+Example FAILED TO EXECUTE
+{[washington_dc:cityid/3]}
+{[4113200count]}
+Example FAILED TO EXECUTE
+{[texas:stateid/2]}
+Example FAILED TO EXECUTE
+{[delaware:riverid/2],[hudson:riverid/2],[allegheny:riverid/2]}
+{[1.31e-05count/length^2]}
+Example FAILED TO EXECUTE
+{[austin_tx:cityid/3]}
+{[iowa:stateid/2],[south dakota:stateid/2],[north dakota:stateid/2],[missouri:stateid/2],[nebraska:stateid/2],[montana:stateid/2]}
+{[alaska:stateid/2]}
+Example FAILED TO PARSE
+{[1303000count]}
+{[gila:riverid/2],[washita:riverid/2],[pecos:riverid/2],[arkansas:riverid/2],[cimarron:riverid/2],[white:riverid/2],[rio grande:riverid/2],[mississippi:riverid/2],[pearl:riverid/2],[canadian:riverid/2],[red:riverid/2],[neosho:riverid/2],[ouachita:riverid/2],[san juan:riverid/2],[st. francis:riverid/2]}
+{[iowa:stateid/2],[south dakota:stateid/2],[north dakota:stateid/2],[missouri:stateid/2],[nebraska:stateid/2],[montana:stateid/2]}
+{[scotts valley_ca:cityid/3]}
+{[6194length]}
+{[centerville:placeid/2]}
+{[gulf of mexico:placeid/2]}
+{[florida:stateid/2]}
+{[death valley:placeid/2]}
+Example FAILED TO PARSE
+{[new orleans_la:cityid/3]}
+{[new jersey:stateid/2]}
+{[chattahoochee:riverid/2]}
+{[106919count]}
+{[washington_dc:cityid/3]}
+{[401800count]}
+{[boundary peak:placeid/2]}
+{[bristol township_pa:cityid/3],[bethlehem_pa:cityid/3],[scranton_pa:cityid/3],[penn hills_pa:cityid/3],[reading_pa:cityid/3],[altoona_pa:cityid/3],[abingdon_pa:cityid/3],[erie_pa:cityid/3],[allentown_pa:cityid/3],[upper darby_pa:cityid/3],[lower merion_pa:cityid/3]}
+{}
+{}
+{[usa:countryid/2],[colorado:stateid/2],[alaska:stateid/2],[washington:stateid/2],[california:stateid/2]}
+Example FAILED TO EXECUTE
+{[sitka_ak:cityid/3],[fairbanks_ak:cityid/3],[anchorage_ak:cityid/3],[juneau_ak:cityid/3]}
+{[14229000count]}
+{[schenectady_ny:cityid/3],[utica_ny:cityid/3],[cheektowaga_ny:cityid/3],[mount vernon_ny:cityid/3],[niagara falls_ny:cityid/3],[levittown_ny:cityid/3],[albany_ny:cityid/3],[new rochelle_ny:cityid/3],[irondequoit_ny:cityid/3]}
+{[Join failed syntactically: {[usa,usa:countryid/2,usa:countryid/2,longs:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,hunter:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bona:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,elbert:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,crestone needle:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,rainier:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bianca:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bear:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,sanford:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,quandary:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,white:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,fairweather:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,vancouver:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,shasta:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,churchill:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,st. elias:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,foraker:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,la plata:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,east buttress:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,uncompahgre:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,shavano:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,lincoln:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,kit carson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,maroon:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,hubbard:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,south buttress:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,wilson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,harvard:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,crestone:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,browne tower:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,el diente:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,blackburn:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,yale:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,sill:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,antero:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,belford:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,kennedy:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,grays:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,evans:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,princeton:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,alverstone:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,massive:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,whitney:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,north palisade:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bross:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,castle:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,williamson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,torreys:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,mckinley:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,wrangell:mountainid/2]}
+Example FAILED TO PARSE
+{[usa:countryid/2],[texas:stateid/2]}
+{[Join failed syntactically: {[usa,usa:countryid/2,usa:countryid/2,longs:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,hunter:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bona:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,elbert:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,crestone needle:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,rainier:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bianca:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bear:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,sanford:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,quandary:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,white:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,fairweather:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,vancouver:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,shasta:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,churchill:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,st. elias:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,foraker:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,la plata:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,east buttress:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,uncompahgre:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,shavano:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,lincoln:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,kit carson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,maroon:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,hubbard:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,south buttress:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,wilson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,harvard:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,crestone:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,browne tower:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,el diente:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,blackburn:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,yale:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,sill:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,antero:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,belford:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,kennedy:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,grays:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,evans:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,princeton:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,alverstone:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,massive:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,whitney:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,north palisade:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bross:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,castle:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,williamson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,torreys:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,mckinley:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,wrangell:mountainid/2]}
+{[new york:stateid/2],[pennsylvania:stateid/2],[delaware:stateid/2],[new jersey:stateid/2]}
+{[6194length]}
+{[new york_ny:cityid/3]}
+{[1.38e-04count/length^2]}
+{}
+{[1count]}
+{[mount rogers:placeid/2]}
+{[1569000length]}
+{[2333000length]}
+{[district of columbia:stateid/2]}
+{[dakota:riverid/2],[wabash:riverid/2],[gila:riverid/2],[connecticut:riverid/2],[clark fork:riverid/2],[allegheny:riverid/2],[south platte:riverid/2],[hudson:riverid/2],[snake:riverid/2],[tombigbee:riverid/2],[chattahoochee:riverid/2],[ohio:riverid/2],[arkansas:riverid/2],[roanoke:riverid/2],[colorado:riverid/2],[little missouri:riverid/2],[delaware:riverid/2],[wateree catawba:riverid/2],[cimarron:riverid/2],[white:riverid/2],[powder:riverid/2],[cumberland:riverid/2],[bighorn:riverid/2],[niobrara:riverid/2],[rock:riverid/2],[columbia:riverid/2],[tennessee:riverid/2],[smoky hill:riverid/2],[mississippi:riverid/2],[pearl:riverid/2],[potomac:riverid/2],[republican:riverid/2],[neosho:riverid/2],[north platte:riverid/2],[ouachita:riverid/2],[yellowstone:riverid/2],[cheyenne:riverid/2],[green:riverid/2],[san juan:riverid/2],[missouri:riverid/2],[st. francis:riverid/2]}
+Example FAILED TO EXECUTE
+{[death valley:placeid/2]}
+{[7071639count]}
+{[california:stateid/2]}
+{[new mexico:stateid/2]}
+{[providence_ri:cityid/3]}
+{[330537count]}
+{[mount katahdin:placeid/2]}
+{[370951count]}
+{}
+{[south platte:riverid/2],[arkansas:riverid/2],[colorado:riverid/2],[smoky hill:riverid/2],[rio grande:riverid/2],[canadian:riverid/2],[republican:riverid/2],[north platte:riverid/2],[green:riverid/2],[san juan:riverid/2]}
+{}
+{[alaska:stateid/2]}
+{[sacramento_ca:cityid/3]}
+{[3968000length]}
+{[6count]}
+{[mount mitchell:placeid/2]}
+{[texas:stateid/2]}
+Example FAILED TO EXECUTE
+{[1.07e+11length^2]}
+Example FAILED TO EXECUTE
+{[iowa:stateid/2],[south dakota:stateid/2],[north dakota:stateid/2],[missouri:stateid/2],[nebraska:stateid/2],[montana:stateid/2]}
+{[51count]}
+{[174431count]}
+Example FAILED TO EXECUTE
+{[Join failed syntactically: {[usa,usa:countryid/2,usa:countryid/2,longs:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,hunter:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bona:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,elbert:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,crestone needle:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,rainier:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bianca:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bear:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,sanford:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,quandary:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,white:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,fairweather:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,vancouver:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,shasta:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,churchill:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,st. elias:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,foraker:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,la plata:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,east buttress:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,uncompahgre:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,shavano:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,lincoln:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,kit carson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,maroon:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,hubbard:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,south buttress:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,wilson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,harvard:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,crestone:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,browne tower:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,el diente:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,blackburn:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,yale:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,sill:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,antero:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,belford:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,kennedy:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,grays:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,evans:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,princeton:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,alverstone:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,massive:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,whitney:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,north palisade:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bross:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,castle:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,williamson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,torreys:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,mckinley:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,wrangell:mountainid/2]}
+{[14229000count]}
+{[huntsville_al:cityid/3],[tuscaloosa_al:cityid/3]}
+Example FAILED TO PARSE
+{[washita:riverid/2],[pecos:riverid/2],[rio grande:riverid/2],[canadian:riverid/2],[red:riverid/2]}
+{[alaska:stateid/2]}
+{[2.62e-07count/length^2]}
+Example FAILED TO EXECUTE
+{[alaska:stateid/2]}
+Example FAILED TO EXECUTE
+{[Join failed syntactically: {[mississippi:stateid/2]}
+{[guadalupe peak:placeid/2]}
+{[iowa:stateid/2],[wisconsin:stateid/2],[kentucky:stateid/2],[indiana:stateid/2],[missouri:stateid/2]}
+{[8count]}
+{[947200count]}
+{[76685count]}
+{[san angelo_tx:cityid/3],[richardson_tx:cityid/3],[lubbock_tx:cityid/3],[amarillo_tx:cityid/3],[grand prairie_tx:cityid/3],[fort worth_tx:cityid/3],[houston_tx:cityid/3],[waco_tx:cityid/3],[beaumont_tx:cityid/3],[corpus christi_tx:cityid/3],[longview_tx:cityid/3],[arlington_tx:cityid/3],[irving_tx:cityid/3],[brownsville_tx:cityid/3],[mesquite_tx:cityid/3],[pasadena_tx:cityid/3],[austin_tx:cityid/3],[wichita falls_tx:cityid/3],[laredo_tx:cityid/3],[el paso_tx:cityid/3],[mcallen_tx:cityid/3],[abilene_tx:cityid/3],[garland_tx:cityid/3],[plano_tx:cityid/3],[odessa_tx:cityid/3],[dallas_tx:cityid/3],[midland_tx:cityid/3],[port arthur_tx:cityid/3],[san antonio_tx:cityid/3],[tyler_tx:cityid/3]}
+Example FAILED TO EXECUTE
+{[virginia:stateid/2],[maryland:stateid/2]}
+{[ohio:stateid/2],[indiana:stateid/2],[wisconsin:stateid/2]}
+{[texas:stateid/2]}
+{[1094000length]}
+{[california:stateid/2]}
+{[albany_ny:cityid/3]}
+Example FAILED TO PARSE
+{[67042count],[94201count],[61195count],[71462count],[138857count],[70525count],[90027count],[149230count],[70508count],[62762count],[98315count],[109943count],[91449count],[112560count],[118102count],[72496count],[84997count],[72331count],[67053count],[101261count],[73240count]}
+{[jefferson city_mo:cityid/3],[des moines_ia:cityid/3],[lincoln_ne:cityid/3],[bismarck_nd:cityid/3],[helena_mt:cityid/3],[pierre_sd:cityid/3]}
+Example FAILED TO EXECUTE
+{[345496count]}
+Example FAILED TO PARSE
+Example FAILED TO PARSE
+{[2520000count]}
+Example FAILED TO EXECUTE
+Example FAILED TO EXECUTE
+{[alaska:stateid/2]}
+{[3901length]}
+{[tennessee:stateid/2]}
+{[6.91e+11length^2]}
+{}
+Example FAILED TO PARSE
+Example FAILED TO PARSE
+{[1461000count]}
+{[51count]}
+{[nevada:stateid/2],[utah:stateid/2],[colorado:stateid/2],[new mexico:stateid/2],[california:stateid/2]}
+{[ouachita river:placeid/2]}
+{[california:stateid/2]}
+{[2520000count]}
+Example FAILED TO EXECUTE
+{[seattle_wa:cityid/3]}
+{[1.45e+11length^2]}
+{[6.91e+11length^2]}
+{[638000count]}
+Example FAILED TO EXECUTE
+{[district of columbia:stateid/2]}
+{[missouri:riverid/2]}
+{[mount mckinley:placeid/2]}
+{}
+{[chattahoochee:riverid/2]}
+{[119123count]}
+{[alaska:stateid/2]}
+{[california:stateid/2],[usa:countryid/2]}
+{[gila:riverid/2],[washita:riverid/2],[pecos:riverid/2],[arkansas:riverid/2],[cimarron:riverid/2],[white:riverid/2],[rio grande:riverid/2],[mississippi:riverid/2],[pearl:riverid/2],[canadian:riverid/2],[red:riverid/2],[neosho:riverid/2],[ouachita:riverid/2],[san juan:riverid/2],[st. francis:riverid/2]}
+{[atlantic ocean:placeid/2]}
+{[4217000count]}
+{[iowa:stateid/2],[wisconsin:stateid/2],[kentucky:stateid/2],[mississippi:stateid/2],[minnesota:stateid/2],[louisiana:stateid/2],[missouri:stateid/2],[illinois:stateid/2],[tennessee:stateid/2],[arkansas:stateid/2]}
+{[oregon:stateid/2],[usa:countryid/2],[maine:stateid/2]}
+{[waukegan_il:cityid/3],[baton rouge_la:cityid/3],[covington_ky:cityid/3],[louisville_ky:cityid/3],[evanston_il:cityid/3],[biloxi_ms:cityid/3],[madison_wi:cityid/3],[des moines_ia:cityid/3],[peoria_il:cityid/3],[milwaukee_wi:cityid/3],[columbia_mo:cityid/3],[springfield_mo:cityid/3],[independence_mo:cityid/3],[st. louis_mo:cityid/3],[rochester_mn:cityid/3],[oak lawn_il:cityid/3],[bloomington_mn:cityid/3],[waterloo_ia:cityid/3],[rockford_il:cityid/3],[minneapolis_mn:cityid/3],[cicero_il:cityid/3],[jackson_ms:cityid/3],[memphis_tn:cityid/3],[cedar rapids_ia:cityid/3],[hattiesburg_ms:cityid/3],[chattanooga_tn:cityid/3],[nashville_tn:cityid/3],[little rock_ar:cityid/3],[pine bluff_ar:cityid/3],[racine_wi:cityid/3],[lexington_ky:cityid/3],[new orleans_la:cityid/3],[monroe_la:cityid/3],[champaign_il:cityid/3],[fort smith_ar:cityid/3],[arlington heights_il:cityid/3],[dubuque_ia:cityid/3],[west allis_wi:cityid/3],[st. paul_mn:cityid/3],[meridian_ms:cityid/3],[duluth_mn:cityid/3],[skokie_il:cityid/3],[sioux city_ia:cityid/3],[kenosha_wi:cityid/3],[appleton_wi:cityid/3],[green bay_wi:cityid/3],[st. joseph_mo:cityid/3],[chicago_il:cityid/3],[owensboro_ky:cityid/3],[joliet_il:cityid/3],[knoxville_tn:cityid/3],[springfield_il:cityid/3],[aurora_il:cityid/3],[metairie_la:cityid/3],[decatur_il:cityid/3],[north little rock_ar:cityid/3],[lake charles_la:cityid/3],[davenport_ia:cityid/3],[kansas city_mo:cityid/3],[lafayette_la:cityid/3],[elgin_il:cityid/3],[shreveport_la:cityid/3],[kenner_la:cityid/3]}
+{[1595138count]}
+{[2364000count],[4206000count],[4916000count],[2286000count],[4700000count],[2913000count],[2520000count],[4076000count],[4591000count],[11400000count]}
+{[kentucky:stateid/2],[indiana:stateid/2],[pennsylvania:stateid/2],[illinois:stateid/2],[ohio:stateid/2],[west virginia:stateid/2]}
+{[california:stateid/2]}
+{[virginia:stateid/2],[indiana:stateid/2],[missouri:stateid/2],[illinois:stateid/2],[tennessee:stateid/2],[ohio:stateid/2],[west virginia:stateid/2]}
+{[bismarck_nd:cityid/3]}
+{[435count]}
+{[phoenix_az:cityid/3]}
+{[2286000count],[4206000count],[3025000count],[1303000count]}
+{[raleigh_nc:cityid/3]}
+{[wichita_ks:cityid/3]}
+{[76685count]}
+{[california:stateid/2]}
+{[1595138count]}
+{[51count]}
+{[virginia:stateid/2],[maryland:stateid/2]}
+{[mississippi:riverid/2]}
+{[arizona:stateid/2],[nevada:stateid/2],[oregon:stateid/2]}
+{[los angeles_ca:cityid/3]}
+{[missouri:riverid/2]}
+{[trenton_nj:cityid/3]}
+Example FAILED TO EXECUTE
+{[1count]}
+{[mount mckinley:placeid/2]}
+{[7071639count]}
+{[frankfort_ky:cityid/3],[des moines_ia:cityid/3],[oklahoma city_ok:cityid/3],[nashville_tn:cityid/3],[little rock_ar:cityid/3],[lincoln_ne:cityid/3],[topeka_ks:cityid/3],[springfield_il:cityid/3]}
+Example FAILED TO EXECUTE
+{[guadalupe peak:placeid/2]}
+{[arizona:stateid/2]}
+{[boston_ma:cityid/3]}
+{[new york:stateid/2],[delaware:stateid/2],[pennsylvania:stateid/2]}
+{[new jersey:stateid/2],[new york:stateid/2],[delaware:stateid/2],[iowa:stateid/2],[wisconsin:stateid/2],[kentucky:stateid/2],[virginia:stateid/2],[indiana:stateid/2],[pennsylvania:stateid/2],[michigan:stateid/2],[missouri:stateid/2],[illinois:stateid/2],[tennessee:stateid/2],[ohio:stateid/2],[west virginia:stateid/2],[maryland:stateid/2]}
+{[alaska:stateid/2]}
+{[illinois:stateid/2]}
+{[Join failed syntactically: {[yale:mountainid/2],[bross:mountainid/2],[wilson:mountainid/2],[longs:mountainid/2],[torreys:mountainid/2],[crestone needle:mountainid/2],[grays:mountainid/2],[kit carson:mountainid/2],[la plata:mountainid/2],[lincoln:mountainid/2],[whitney:mountainid/2],[williamson:mountainid/2],[crestone:mountainid/2],[uncompahgre:mountainid/2],[maroon:mountainid/2],[quandary:mountainid/2],[shavano:mountainid/2],[evans:mountainid/2],[shasta:mountainid/2],[antero:mountainid/2],[princeton:mountainid/2],[white:mountainid/2],[el diente:mountainid/2],[elbert:mountainid/2],[bianca:mountainid/2],[rainier:mountainid/2],[harvard:mountainid/2],[castle:mountainid/2],[massive:mountainid/2],[sill:mountainid/2],[belford:mountainid/2],[north palisade:mountainid/2]}
+Example FAILED TO EXECUTE
+{[oregon:stateid/2],[maine:stateid/2]}
+{[mount mckinley:placeid/2]}
+Example FAILED TO EXECUTE
+{[scotts valley_ca:cityid/3]}
+{[964000count]}
+{[michigan:stateid/2],[ohio:stateid/2],[kentucky:stateid/2],[illinois:stateid/2]}
+{[51count]}
+{[springfield_il:cityid/3]}
+Example FAILED TO EXECUTE
+Example FAILED TO EXECUTE
+{[2333000length]}
+{[iowa:stateid/2],[south dakota:stateid/2],[north dakota:stateid/2],[missouri:stateid/2],[nebraska:stateid/2],[montana:stateid/2]}
+{[virginia:stateid/2],[indiana:stateid/2],[missouri:stateid/2],[illinois:stateid/2],[tennessee:stateid/2],[ohio:stateid/2],[west virginia:stateid/2]}
+{[nevada:stateid/2],[idaho:stateid/2],[colorado:stateid/2],[wyoming:stateid/2],[new mexico:stateid/2],[arizona:stateid/2]}
+{[trenton_nj:cityid/3]}
+{[texas:stateid/2]}
+Example FAILED TO EXECUTE
+{[7071639count]}
+{[1461000count]}
+{[south dakota:stateid/2],[wyoming:stateid/2],[north dakota:stateid/2],[idaho:stateid/2]}
+{[delaware:riverid/2],[hudson:riverid/2],[allegheny:riverid/2]}
+Example FAILED TO EXECUTE
+Example FAILED TO EXECUTE
+Example FAILED TO EXECUTE
+{[washita:riverid/2],[pecos:riverid/2],[rio grande:riverid/2],[canadian:riverid/2],[red:riverid/2]}
+{[alaska:stateid/2]}
+{[texas:stateid/2]}
+{[734length]}
+{[3778000length]}
+{[10count]}
+{[3778000length]}
+Example FAILED TO EXECUTE
+{[345496count]}
+{[seattle_wa:cityid/3]}
+{[new jersey:stateid/2],[new york:stateid/2],[vermont:stateid/2],[delaware:stateid/2],[iowa:stateid/2],[wisconsin:stateid/2],[nevada:stateid/2],[kentucky:stateid/2],[utah:stateid/2],[massachusetts:stateid/2],[oregon:stateid/2],[virginia:stateid/2],[indiana:stateid/2],[new hampshire:stateid/2],[south dakota:stateid/2],[mississippi:stateid/2],[minnesota:stateid/2],[idaho:stateid/2],[colorado:stateid/2],[district of columbia:stateid/2],[louisiana:stateid/2],[alabama:stateid/2],[north dakota:stateid/2],[wyoming:stateid/2],[pennsylvania:stateid/2],[georgia:stateid/2],[michigan:stateid/2],[missouri:stateid/2],[texas:stateid/2],[illinois:stateid/2],[tennessee:stateid/2],[south carolina:stateid/2],[new mexico:stateid/2],[oklahoma:stateid/2],[arkansas:stateid/2],[washington:stateid/2],[connecticut:stateid/2],[kansas:stateid/2],[california:stateid/2],[nebraska:stateid/2],[ohio:stateid/2],[north carolina:stateid/2],[florida:stateid/2],[west virginia:stateid/2],[montana:stateid/2],[maryland:stateid/2],[arizona:stateid/2]}
+{[mount mckinley:placeid/2]}
+{[1.78e+11length^2]}
+{[sacramento_ca:cityid/3]}
+{[sacramento_ca:cityid/3]}
+Example FAILED TO EXECUTE
+{[sacramento_ca:cityid/3]}
+{[columbus_oh:cityid/3]}
+{[california:stateid/2]}
+{[785880count]}
+{[6count]}
+{[georgia:stateid/2],[florida:stateid/2]}
+{[1203339count]}
+{[4count]}
+{[kentucky:stateid/2],[virginia:stateid/2],[mississippi:stateid/2],[louisiana:stateid/2],[alabama:stateid/2],[georgia:stateid/2],[missouri:stateid/2],[texas:stateid/2],[tennessee:stateid/2],[oklahoma:stateid/2],[arkansas:stateid/2],[north carolina:stateid/2],[florida:stateid/2]}
+{[oxnard_ca:cityid/3],[bristol township_pa:cityid/3],[santa barbara_ca:cityid/3],[buena park_ca:cityid/3],[fayetteville_nc:cityid/3],[orlando_fl:cityid/3],[san angelo_tx:cityid/3],[downey_ca:cityid/3],[greenville_sc:cityid/3],[concord_ca:cityid/3],[richardson_tx:cityid/3],[columbia_sc:cityid/3],[waukegan_il:cityid/3],[orange_ca:cityid/3],[pomona_ca:cityid/3],[lowell_ma:cityid/3],[charleston_sc:cityid/3],[largo_fl:cityid/3],[clearwater_fl:cityid/3],[bayonne_nj:cityid/3],[manchester_nh:cityid/3],[amarillo_tx:cityid/3],[vallejo_ca:cityid/3],[grand prairie_tx:cityid/3],[san bernardino_ca:cityid/3],[lakewood_oh:cityid/3],[bethesda_md:cityid/3],[evanston_il:cityid/3],[medford_ma:cityid/3],[san leandro_ca:cityid/3],[lakewood_co:cityid/3],[pueblo_co:cityid/3],[great falls_mt:cityid/3],[boise_id:cityid/3],[modesto_ca:cityid/3],[richmond_ca:cityid/3],[north charleston_sc:cityid/3],[westminster_ca:cityid/3],[mountain view_ca:cityid/3],[bellevue_wa:cityid/3],[reno_nv:cityid/3],[warwick_ri:cityid/3],[schenectady_ny:cityid/3],[sterling heights_mi:cityid/3],[peoria_il:cityid/3],[santa clara_ca:cityid/3],[bethlehem_pa:cityid/3],[utica_ny:cityid/3],[salem_or:cityid/3],[columbia_mo:cityid/3],[alexandria_va:cityid/3],[springfield_mo:cityid/3],[raleigh_nc:cityid/3],[winston-salem_nc:cityid/3],[portsmouth_va:cityid/3],[livonia_mi:cityid/3],[lawton_ok:cityid/3],[fargo_nd:cityid/3],[citrus heights_ca:cityid/3],[waterford_mi:cityid/3],[independence_mo:cityid/3],[silver spring_md:cityid/3],[waco_tx:cityid/3],[carson_ca:cityid/3],[bristol_ct:cityid/3],[glendale_ca:cityid/3],[wyoming_mi:cityid/3],[rochester_mn:cityid/3],[beaumont_tx:cityid/3],[oceanside_ca:cityid/3],[oak lawn_il:cityid/3],[east orange_nj:cityid/3],[scranton_pa:cityid/3],[westland_mi:cityid/3],[south gate_ca:cityid/3],[bloomington_mn:cityid/3],[royal oak_mi:cityid/3],[terre haute_in:cityid/3],[ogden_ut:cityid/3],[longview_tx:cityid/3],[anderson_in:cityid/3],[springfield_oh:cityid/3],[waterloo_ia:cityid/3],[troy_mi:cityid/3],[rockford_il:cityid/3],[somerville_ma:cityid/3],[lynn_ma:cityid/3],[quincy_ma:cityid/3],[cicero_il:cityid/3],[stockton_ca:cityid/3],[scotts valley_ca:cityid/3],[garden grove_ca:cityid/3],[east los angeles_ca:cityid/3],[huntington_wv:cityid/3],[norwalk_ct:cityid/3],[bridgeport_ct:cityid/3],[ontario_ca:cityid/3],[alhambra_ca:cityid/3],[lorain_oh:cityid/3],[penn hills_pa:cityid/3],[macon_ga:cityid/3],[costa mesa_ca:cityid/3],[irvine_ca:cityid/3],[billings_mt:cityid/3],[dearborn heights_mi:cityid/3],[wilmington_de:cityid/3],[hayward_ca:cityid/3],[irving_tx:cityid/3],[scottsdale_az:cityid/3],[cedar rapids_ia:cityid/3],[santa monica_ca:cityid/3],[kettering_oh:cityid/3],[santa rosa_ca:cityid/3],[gainesville_fl:cityid/3],[kendall_fl:cityid/3],[el cajon_ca:cityid/3],[west covina_ca:cityid/3],[arvada_co:cityid/3],[brownsville_tx:cityid/3],[sioux falls_sd:cityid/3],[kalamazoo_mi:cityid/3],[south bend_in:cityid/3],[clifton_nj:cityid/3],[chula vista_ca:cityid/3],[euclid_oh:cityid/3],[redondo beach_ca:cityid/3],[hartford_ct:cityid/3],[mesquite_tx:cityid/3],[clinton_mi:cityid/3],[burbank_ca:cityid/3],[farmington hills_mi:cityid/3],[middletown_nj:cityid/3],[pasadena_tx:cityid/3],[racine_wi:cityid/3],[youngstown_oh:cityid/3],[huntsville_al:cityid/3],[cheektowaga_ny:cityid/3],[framingham_ma:cityid/3],[monroe_la:cityid/3],[tallahassee_fl:cityid/3],[champaign_il:cityid/3],[tuscaloosa_al:cityid/3],[boulder_co:cityid/3],[berkeley_ca:cityid/3],[inglewood_ca:cityid/3],[woodbridge_nj:cityid/3],[reading_pa:cityid/3],[newport news_va:cityid/3],[wichita falls_tx:cityid/3],[fort smith_ar:cityid/3],[danbury_ct:cityid/3],[mount vernon_ny:cityid/3],[fort collins_co:cityid/3],[ann arbor_mi:cityid/3],[waltham_ma:cityid/3],[nashua_nh:cityid/3],[alameda_ca:cityid/3],[stamford_ct:cityid/3],[arlington heights_il:cityid/3],[san mateo_ca:cityid/3],[el monte_ca:cityid/3],[laredo_tx:cityid/3],[high point_nc:cityid/3],[dubuque_ia:cityid/3],[sunnyvale_ca:cityid/3],[charleston_wv:cityid/3],[fairfield_ca:cityid/3],[newport beach_ca:cityid/3],[dundalk_md:cityid/3],[meriden_ct:cityid/3],[west allis_wi:cityid/3],[lynchburg_va:cityid/3],[west hartford_ct:cityid/3],[southfield_mi:cityid/3],[paterson_nj:cityid/3],[altoona_pa:cityid/3],[lansing_mi:cityid/3],[hollywood_fl:cityid/3],[st. clair shores_mi:cityid/3],[mcallen_tx:cityid/3],[abilene_tx:cityid/3],[ventura_ca:cityid/3],[new bedford_ma:cityid/3],[tempe_az:cityid/3],[garland_tx:cityid/3],[plano_tx:cityid/3],[pensacola_fl:cityid/3],[duluth_mn:cityid/3],[greenwich_ct:cityid/3],[skokie_il:cityid/3],[elyria_oh:cityid/3],[sioux city_ia:cityid/3],[bakersfield_ca:cityid/3],[niagara falls_ny:cityid/3],[thousand oaks_ca:cityid/3],[cranston_ri:cityid/3],[evansville_in:cityid/3],[trenton_nj:cityid/3],[redford_mi:cityid/3],[kenosha_wi:cityid/3],[durham_nc:cityid/3],[fremont_ca:cityid/3],[camden_nj:cityid/3],[miami beach_fl:cityid/3],[odessa_tx:cityid/3],[appleton_wi:cityid/3],[muncie_in:cityid/3],[overland park_ks:cityid/3],[green bay_wi:cityid/3],[topeka_ks:cityid/3],[edison_nj:cityid/3],[waterbury_ct:cityid/3],[hampton_va:cityid/3],[west valley_ut:cityid/3],[st. joseph_mo:cityid/3],[savannah_ga:cityid/3],[torrance_ca:cityid/3],[lakewood_ca:cityid/3],[casper_wy:cityid/3],[hammond_in:cityid/3],[irvington_nj:cityid/3],[abingdon_pa:cityid/3],[eugene_or:cityid/3],[joliet_il:cityid/3],[simi valley_ca:cityid/3],[west palm beach_fl:cityid/3],[dearborn_mi:cityid/3],[cherry hill_nj:cityid/3],[new haven_ct:cityid/3],[lawrence_ma:cityid/3],[chesapeake_va:cityid/3],[springfield_il:cityid/3],[erie_pa:cityid/3],[compton_ca:cityid/3],[levittown_ny:cityid/3],[aurora_il:cityid/3],[albany_ny:cityid/3],[elizabeth_nj:cityid/3],[pontiac_mi:cityid/3],[whittier_ca:cityid/3],[decatur_il:cityid/3],[pawtucket_ri:cityid/3],[koolaupoko_hi:cityid/3],[north little rock_ar:cityid/3],[lake charles_la:cityid/3],[fullerton_ca:cityid/3],[davenport_ia:cityid/3],[fall river_ma:cityid/3],[brockton_ma:cityid/3],[midland_tx:cityid/3],[new rochelle_ny:cityid/3],[lafayette_la:cityid/3],[parma_oh:cityid/3],[allentown_pa:cityid/3],[provo_ut:cityid/3],[upper darby_pa:cityid/3],[daly city_ca:cityid/3],[salinas_ca:cityid/3],[norwalk_ca:cityid/3],[roanoke_va:cityid/3],[pasadena_ca:cityid/3],[port arthur_tx:cityid/3],[newton_ma:cityid/3],[glendale_az:cityid/3],[tyler_tx:cityid/3],[new britain_ct:cityid/3],[escondido_ca:cityid/3],[elgin_il:cityid/3],[cambridge_ma:cityid/3],[lower merion_pa:cityid/3],[irondequoit_ny:cityid/3],[norman_ok:cityid/3],[portland_me:cityid/3],[taylor_mi:cityid/3],[albany_ga:cityid/3],[hamilton_oh:cityid/3],[saginaw_mi:cityid/3],[kenner_la:cityid/3],[canton_oh:cityid/3]}
+{[new york_ny:cityid/3]}
+{[3033000length]}
+{[6194length]}
+{[alaska:stateid/2]}
+{[1count]}
+{[columbia:riverid/2]}
+{[tallahassee_fl:cityid/3]}
+{[los angeles_ca:cityid/3]}
+{[granite peak:placeid/2]}
+{[death valley:placeid/2]}
+{}
+Example FAILED TO EXECUTE
+{[southeast corner:placeid/2]}
+{[district of columbia:stateid/2]}
+{[2count]}
+{[georgia:stateid/2],[alabama:stateid/2]}
+{[washita:riverid/2],[pecos:riverid/2],[rio grande:riverid/2],[canadian:riverid/2],[red:riverid/2]}
+{[oxnard_ca:cityid/3],[santa barbara_ca:cityid/3],[buena park_ca:cityid/3],[downey_ca:cityid/3],[concord_ca:cityid/3],[orange_ca:cityid/3],[pomona_ca:cityid/3],[vallejo_ca:cityid/3],[san bernardino_ca:cityid/3],[san leandro_ca:cityid/3],[modesto_ca:cityid/3],[richmond_ca:cityid/3],[westminster_ca:cityid/3],[mountain view_ca:cityid/3],[santa clara_ca:cityid/3],[citrus heights_ca:cityid/3],[carson_ca:cityid/3],[glendale_ca:cityid/3],[oceanside_ca:cityid/3],[south gate_ca:cityid/3],[stockton_ca:cityid/3],[scotts valley_ca:cityid/3],[garden grove_ca:cityid/3],[east los angeles_ca:cityid/3],[ontario_ca:cityid/3],[alhambra_ca:cityid/3],[costa mesa_ca:cityid/3],[irvine_ca:cityid/3],[hayward_ca:cityid/3],[santa monica_ca:cityid/3],[santa rosa_ca:cityid/3],[el cajon_ca:cityid/3],[west covina_ca:cityid/3],[chula vista_ca:cityid/3],[redondo beach_ca:cityid/3],[burbank_ca:cityid/3],[berkeley_ca:cityid/3],[inglewood_ca:cityid/3],[alameda_ca:cityid/3],[san mateo_ca:cityid/3],[el monte_ca:cityid/3],[sunnyvale_ca:cityid/3],[fairfield_ca:cityid/3],[newport beach_ca:cityid/3],[ventura_ca:cityid/3],[bakersfield_ca:cityid/3],[thousand oaks_ca:cityid/3],[fremont_ca:cityid/3],[torrance_ca:cityid/3],[lakewood_ca:cityid/3],[simi valley_ca:cityid/3],[compton_ca:cityid/3],[whittier_ca:cityid/3],[fullerton_ca:cityid/3],[daly city_ca:cityid/3],[salinas_ca:cityid/3],[norwalk_ca:cityid/3],[pasadena_ca:cityid/3],[escondido_ca:cityid/3]}
+{[california:stateid/2]}
+{[gannett peak:placeid/2]}
+{[mauna kea:placeid/2]}
+{[ocheyedan mound:placeid/2]}
+{[2364000count],[4206000count],[4916000count],[2286000count],[4700000count],[2913000count],[2520000count],[4076000count],[4591000count],[11400000count]}
+{[des moines_ia:cityid/3]}
+{[charleston_wv:cityid/3]}
+{[new york_ny:cityid/3]}
+{}
+{[1.53e+12length^2]}
+{[south dakota:stateid/2]}
+{[new jersey:stateid/2]}
+{[new york:stateid/2]}
+{[new jersey:stateid/2],[vermont:stateid/2],[massachusetts:stateid/2],[pennsylvania:stateid/2],[connecticut:stateid/2]}
+{[mount mckinley:placeid/2]}
+{[307890000count]}
+{[arkansas:stateid/2],[new mexico:stateid/2],[oklahoma:stateid/2]}
+{[atlantic ocean:placeid/2]}
+{[7365000count]}
+{[texas:stateid/2]}
+Example FAILED TO EXECUTE
+{[3count]}
+{[alaska:stateid/2]}
+{[iowa:stateid/2],[wisconsin:stateid/2],[kentucky:stateid/2],[mississippi:stateid/2],[minnesota:stateid/2],[louisiana:stateid/2],[missouri:stateid/2],[illinois:stateid/2],[tennessee:stateid/2],[arkansas:stateid/2]}
+Example FAILED TO EXECUTE
+{[451000length]}
+{[denver_co:cityid/3]}
+{[2333000length]}
+{[1.07e-05count/length^2],[6.64e-06count/length^2],[2.80e-06count/length^2],[1.66e-05count/length^2],[6.11e-05count/length^2],[3.11e-05count/length^2],[2.06e-05count/length^2],[5.86e-05count/length^2],[4.14e-06count/length^2],[1.01e-04count/length^2],[2.39e-04count/length^2],[1.86e-05count/length^2],[3.83e-05count/length^2],[2.67e-04count/length^2],[2.04e-05count/length^2],[3.56e-06count/length^2],[5.48e-05count/length^2],[1.38e-04count/length^2],[3.40e-05count/length^2],[7.84e-06count/length^2],[2.72e-05count/length^2],[3.65e-04count/length^2],[7.82e-05count/length^2],[3.02e-04count/length^2],[5.06e-05count/length^2],[2.05e-05count/length^2],[3.23e-05count/length^2],[1.56e-04count/length^2],[1.85e-06count/length^2],[1.12e-04count/length^2],[4.21e-05count/length^2],[2.33e-05count/length^2],[9.21e-06count/length^2],[4.39e-06count/length^2],[3.58e-05count/length^2],[1.31e-05count/length^2],[3.46e-06count/length^2],[4.31e-05count/length^2],[1.05e-05count/length^2],[1.11e-05count/length^2],[2.91e-05count/length^2],[2.00e-05count/length^2],[2.07e-06count/length^2],[2.62e-07count/length^2],[3.87e-05count/length^2],[2.24e-04count/length^2],[5.75e-05count/length^2],[1.67e-05count/length^2],[5.78e-05count/length^2]}
+{[alaska:stateid/2]}
+{[minnesota:stateid/2],[new york:stateid/2]}
+{}
+{[washington_dc:cityid/3]}
+{[4113200count]}
+{[6count]}
+{[texas:stateid/2]}
+Example FAILED TO EXECUTE
+{[delaware:riverid/2],[hudson:riverid/2],[allegheny:riverid/2]}
+{[1.31e-05count/length^2]}
+Example FAILED TO EXECUTE
+{[austin_tx:cityid/3]}
+{[iowa:stateid/2],[south dakota:stateid/2],[north dakota:stateid/2],[missouri:stateid/2],[nebraska:stateid/2],[montana:stateid/2]}
+{[alaska:stateid/2]}
+{[new mexico:stateid/2],[usa:countryid/2],[texas:stateid/2],[colorado:stateid/2]}
+{[1303000count]}
+{[gila:riverid/2],[washita:riverid/2],[pecos:riverid/2],[arkansas:riverid/2],[cimarron:riverid/2],[white:riverid/2],[rio grande:riverid/2],[mississippi:riverid/2],[pearl:riverid/2],[canadian:riverid/2],[red:riverid/2],[neosho:riverid/2],[ouachita:riverid/2],[san juan:riverid/2],[st. francis:riverid/2]}
+{[iowa:stateid/2],[south dakota:stateid/2],[north dakota:stateid/2],[missouri:stateid/2],[nebraska:stateid/2],[montana:stateid/2]}
+{[scotts valley_ca:cityid/3]}
+{[6194length]}
+{[centerville:placeid/2]}
+{[gulf of mexico:placeid/2]}
+{[florida:stateid/2]}
+{[death valley:placeid/2]}
+{[new jersey:stateid/2],[new york:stateid/2],[vermont:stateid/2],[delaware:stateid/2],[wisconsin:stateid/2],[utah:stateid/2],[massachusetts:stateid/2],[virginia:stateid/2],[new hampshire:stateid/2],[mississippi:stateid/2],[idaho:stateid/2],[colorado:stateid/2],[district of columbia:stateid/2],[alabama:stateid/2],[wyoming:stateid/2],[pennsylvania:stateid/2],[georgia:stateid/2],[missouri:stateid/2],[illinois:stateid/2],[south carolina:stateid/2],[new mexico:stateid/2],[oklahoma:stateid/2],[arkansas:stateid/2],[connecticut:stateid/2],[kansas:stateid/2],[nebraska:stateid/2],[north carolina:stateid/2],[florida:stateid/2],[west virginia:stateid/2],[montana:stateid/2],[maryland:stateid/2]}
+{[new orleans_la:cityid/3]}
+{[new jersey:stateid/2]}
+{[chattahoochee:riverid/2]}
+{[106919count]}
+{[washington_dc:cityid/3]}
+{[401800count]}
+{[boundary peak:placeid/2]}
+{[bristol township_pa:cityid/3],[bethlehem_pa:cityid/3],[scranton_pa:cityid/3],[penn hills_pa:cityid/3],[reading_pa:cityid/3],[altoona_pa:cityid/3],[abingdon_pa:cityid/3],[erie_pa:cityid/3],[allentown_pa:cityid/3],[upper darby_pa:cityid/3],[lower merion_pa:cityid/3]}
+{}
+{[arizona:stateid/2]}
+{[usa:countryid/2],[colorado:stateid/2],[alaska:stateid/2],[washington:stateid/2],[california:stateid/2]}
+Example FAILED TO EXECUTE
+{[sitka_ak:cityid/3],[fairbanks_ak:cityid/3],[anchorage_ak:cityid/3],[juneau_ak:cityid/3]}
+{[14229000count]}
+{[schenectady_ny:cityid/3],[utica_ny:cityid/3],[cheektowaga_ny:cityid/3],[mount vernon_ny:cityid/3],[niagara falls_ny:cityid/3],[levittown_ny:cityid/3],[albany_ny:cityid/3],[new rochelle_ny:cityid/3],[irondequoit_ny:cityid/3]}
+{[Join failed syntactically: {[usa,usa:countryid/2,usa:countryid/2,longs:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,hunter:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bona:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,elbert:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,crestone needle:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,rainier:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bianca:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bear:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,sanford:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,quandary:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,white:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,fairweather:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,vancouver:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,shasta:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,churchill:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,st. elias:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,foraker:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,la plata:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,east buttress:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,uncompahgre:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,shavano:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,lincoln:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,kit carson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,maroon:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,hubbard:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,south buttress:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,wilson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,harvard:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,crestone:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,browne tower:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,el diente:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,blackburn:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,yale:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,sill:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,antero:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,belford:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,kennedy:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,grays:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,evans:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,princeton:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,alverstone:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,massive:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,whitney:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,north palisade:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bross:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,castle:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,williamson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,torreys:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,mckinley:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,wrangell:mountainid/2]}
+{[california:stateid/2]}
+{[usa:countryid/2],[texas:stateid/2]}
+{[Join failed syntactically: {[usa,usa:countryid/2,usa:countryid/2,longs:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,hunter:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bona:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,elbert:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,crestone needle:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,rainier:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bianca:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bear:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,sanford:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,quandary:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,white:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,fairweather:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,vancouver:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,shasta:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,churchill:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,st. elias:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,foraker:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,la plata:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,east buttress:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,uncompahgre:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,shavano:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,lincoln:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,kit carson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,maroon:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,hubbard:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,south buttress:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,wilson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,harvard:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,crestone:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,browne tower:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,el diente:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,blackburn:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,yale:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,sill:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,antero:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,belford:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,kennedy:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,grays:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,evans:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,princeton:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,alverstone:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,massive:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,whitney:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,north palisade:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bross:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,castle:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,williamson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,torreys:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,mckinley:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,wrangell:mountainid/2]}
+{[new york:stateid/2],[pennsylvania:stateid/2],[delaware:stateid/2],[new jersey:stateid/2]}
+{[6194length]}
+{[new york_ny:cityid/3]}
+{[1.38e-04count/length^2]}
+{}
+{[1count]}
+{[mount rogers:placeid/2]}
+{[1569000length]}
+{[2333000length]}
+{[district of columbia:stateid/2]}
+{[dakota:riverid/2],[wabash:riverid/2],[gila:riverid/2],[connecticut:riverid/2],[clark fork:riverid/2],[allegheny:riverid/2],[south platte:riverid/2],[hudson:riverid/2],[snake:riverid/2],[tombigbee:riverid/2],[chattahoochee:riverid/2],[ohio:riverid/2],[arkansas:riverid/2],[roanoke:riverid/2],[colorado:riverid/2],[little missouri:riverid/2],[delaware:riverid/2],[wateree catawba:riverid/2],[cimarron:riverid/2],[white:riverid/2],[powder:riverid/2],[cumberland:riverid/2],[bighorn:riverid/2],[niobrara:riverid/2],[rock:riverid/2],[columbia:riverid/2],[tennessee:riverid/2],[smoky hill:riverid/2],[mississippi:riverid/2],[pearl:riverid/2],[potomac:riverid/2],[republican:riverid/2],[neosho:riverid/2],[north platte:riverid/2],[ouachita:riverid/2],[yellowstone:riverid/2],[cheyenne:riverid/2],[green:riverid/2],[san juan:riverid/2],[missouri:riverid/2],[st. francis:riverid/2]}
+Example FAILED TO EXECUTE
+{[death valley:placeid/2]}
+{[7071639count]}
+{[california:stateid/2]}
+{[new mexico:stateid/2]}
+{[providence_ri:cityid/3]}
+{[330537count]}
+{[mount katahdin:placeid/2]}
+{[370951count]}
+{}
+{[south platte:riverid/2],[arkansas:riverid/2],[colorado:riverid/2],[smoky hill:riverid/2],[rio grande:riverid/2],[canadian:riverid/2],[republican:riverid/2],[north platte:riverid/2],[green:riverid/2],[san juan:riverid/2]}
+{}
+{[alaska:stateid/2]}
+{[sacramento_ca:cityid/3]}
+{[3968000length]}
+{[6count]}
+{[mount mitchell:placeid/2]}
+{[texas:stateid/2]}
+Example FAILED TO EXECUTE
+{[1.07e+11length^2]}
+Example FAILED TO EXECUTE
+{[iowa:stateid/2],[south dakota:stateid/2],[north dakota:stateid/2],[missouri:stateid/2],[nebraska:stateid/2],[montana:stateid/2]}
+{[51count]}
+{[174431count]}
+{[gannett peak:placeid/2]}
+{[Join failed syntactically: {[usa,usa:countryid/2,usa:countryid/2,longs:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,hunter:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bona:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,elbert:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,crestone needle:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,rainier:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bianca:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bear:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,sanford:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,quandary:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,white:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,fairweather:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,vancouver:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,shasta:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,churchill:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,st. elias:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,foraker:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,la plata:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,east buttress:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,uncompahgre:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,shavano:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,lincoln:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,kit carson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,maroon:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,hubbard:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,south buttress:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,wilson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,harvard:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,crestone:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,browne tower:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,el diente:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,blackburn:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,yale:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,sill:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,antero:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,belford:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,kennedy:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,grays:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,evans:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,princeton:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,alverstone:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,massive:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,whitney:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,north palisade:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,bross:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,castle:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,williamson:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,torreys:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,mckinley:mountainid/2],[usa,usa:countryid/2,usa:countryid/2,wrangell:mountainid/2]}
+{[14229000count]}
+{[huntsville_al:cityid/3],[tuscaloosa_al:cityid/3]}
+Example FAILED TO EXECUTE
+{[washita:riverid/2],[pecos:riverid/2],[rio grande:riverid/2],[canadian:riverid/2],[red:riverid/2]}
+{[alaska:stateid/2]}
+{[2.62e-07count/length^2]}
+Example FAILED TO EXECUTE
+{[alaska:stateid/2]}
+Example FAILED TO EXECUTE
+{[oxnard_ca:cityid/3],[bristol township_pa:cityid/3],[santa barbara_ca:cityid/3],[buena park_ca:cityid/3],[fayetteville_nc:cityid/3],[orlando_fl:cityid/3],[san angelo_tx:cityid/3],[downey_ca:cityid/3],[greenville_sc:cityid/3],[concord_ca:cityid/3],[richardson_tx:cityid/3],[columbia_sc:cityid/3],[waukegan_il:cityid/3],[orange_ca:cityid/3],[pomona_ca:cityid/3],[lowell_ma:cityid/3],[charleston_sc:cityid/3],[largo_fl:cityid/3],[clearwater_fl:cityid/3],[bayonne_nj:cityid/3],[manchester_nh:cityid/3],[amarillo_tx:cityid/3],[vallejo_ca:cityid/3],[grand prairie_tx:cityid/3],[san bernardino_ca:cityid/3],[lakewood_oh:cityid/3],[bethesda_md:cityid/3],[evanston_il:cityid/3],[medford_ma:cityid/3],[san leandro_ca:cityid/3],[lakewood_co:cityid/3],[pueblo_co:cityid/3],[great falls_mt:cityid/3],[boise_id:cityid/3],[modesto_ca:cityid/3],[richmond_ca:cityid/3],[north charleston_sc:cityid/3],[westminster_ca:cityid/3],[mountain view_ca:cityid/3],[bellevue_wa:cityid/3],[reno_nv:cityid/3],[warwick_ri:cityid/3],[schenectady_ny:cityid/3],[sterling heights_mi:cityid/3],[peoria_il:cityid/3],[santa clara_ca:cityid/3],[bethlehem_pa:cityid/3],[utica_ny:cityid/3],[salem_or:cityid/3],[columbia_mo:cityid/3],[alexandria_va:cityid/3],[springfield_mo:cityid/3],[raleigh_nc:cityid/3],[winston-salem_nc:cityid/3],[portsmouth_va:cityid/3],[livonia_mi:cityid/3],[lawton_ok:cityid/3],[fargo_nd:cityid/3],[citrus heights_ca:cityid/3],[waterford_mi:cityid/3],[independence_mo:cityid/3],[silver spring_md:cityid/3],[waco_tx:cityid/3],[carson_ca:cityid/3],[bristol_ct:cityid/3],[glendale_ca:cityid/3],[wyoming_mi:cityid/3],[rochester_mn:cityid/3],[beaumont_tx:cityid/3],[oceanside_ca:cityid/3],[oak lawn_il:cityid/3],[east orange_nj:cityid/3],[scranton_pa:cityid/3],[westland_mi:cityid/3],[south gate_ca:cityid/3],[bloomington_mn:cityid/3],[royal oak_mi:cityid/3],[terre haute_in:cityid/3],[ogden_ut:cityid/3],[longview_tx:cityid/3],[anderson_in:cityid/3],[springfield_oh:cityid/3],[waterloo_ia:cityid/3],[troy_mi:cityid/3],[rockford_il:cityid/3],[somerville_ma:cityid/3],[lynn_ma:cityid/3],[quincy_ma:cityid/3],[cicero_il:cityid/3],[stockton_ca:cityid/3],[scotts valley_ca:cityid/3],[garden grove_ca:cityid/3],[east los angeles_ca:cityid/3],[huntington_wv:cityid/3],[norwalk_ct:cityid/3],[bridgeport_ct:cityid/3],[ontario_ca:cityid/3],[alhambra_ca:cityid/3],[lorain_oh:cityid/3],[penn hills_pa:cityid/3],[macon_ga:cityid/3],[costa mesa_ca:cityid/3],[irvine_ca:cityid/3],[billings_mt:cityid/3],[dearborn heights_mi:cityid/3],[wilmington_de:cityid/3],[hayward_ca:cityid/3],[irving_tx:cityid/3],[scottsdale_az:cityid/3],[cedar rapids_ia:cityid/3],[santa monica_ca:cityid/3],[kettering_oh:cityid/3],[santa rosa_ca:cityid/3],[gainesville_fl:cityid/3],[kendall_fl:cityid/3],[el cajon_ca:cityid/3],[west covina_ca:cityid/3],[arvada_co:cityid/3],[brownsville_tx:cityid/3],[sioux falls_sd:cityid/3],[kalamazoo_mi:cityid/3],[south bend_in:cityid/3],[clifton_nj:cityid/3],[chula vista_ca:cityid/3],[euclid_oh:cityid/3],[redondo beach_ca:cityid/3],[hartford_ct:cityid/3],[mesquite_tx:cityid/3],[clinton_mi:cityid/3],[burbank_ca:cityid/3],[farmington hills_mi:cityid/3],[middletown_nj:cityid/3],[pasadena_tx:cityid/3],[racine_wi:cityid/3],[youngstown_oh:cityid/3],[huntsville_al:cityid/3],[cheektowaga_ny:cityid/3],[framingham_ma:cityid/3],[monroe_la:cityid/3],[tallahassee_fl:cityid/3],[champaign_il:cityid/3],[tuscaloosa_al:cityid/3],[boulder_co:cityid/3],[berkeley_ca:cityid/3],[inglewood_ca:cityid/3],[woodbridge_nj:cityid/3],[reading_pa:cityid/3],[newport news_va:cityid/3],[wichita falls_tx:cityid/3],[fort smith_ar:cityid/3],[danbury_ct:cityid/3],[mount vernon_ny:cityid/3],[fort collins_co:cityid/3],[ann arbor_mi:cityid/3],[waltham_ma:cityid/3],[nashua_nh:cityid/3],[alameda_ca:cityid/3],[stamford_ct:cityid/3],[arlington heights_il:cityid/3],[san mateo_ca:cityid/3],[el monte_ca:cityid/3],[laredo_tx:cityid/3],[high point_nc:cityid/3],[dubuque_ia:cityid/3],[sunnyvale_ca:cityid/3],[charleston_wv:cityid/3],[fairfield_ca:cityid/3],[newport beach_ca:cityid/3],[dundalk_md:cityid/3],[meriden_ct:cityid/3],[west allis_wi:cityid/3],[lynchburg_va:cityid/3],[west hartford_ct:cityid/3],[southfield_mi:cityid/3],[paterson_nj:cityid/3],[altoona_pa:cityid/3],[lansing_mi:cityid/3],[hollywood_fl:cityid/3],[st. clair shores_mi:cityid/3],[mcallen_tx:cityid/3],[abilene_tx:cityid/3],[ventura_ca:cityid/3],[new bedford_ma:cityid/3],[tempe_az:cityid/3],[garland_tx:cityid/3],[plano_tx:cityid/3],[pensacola_fl:cityid/3],[duluth_mn:cityid/3],[greenwich_ct:cityid/3],[skokie_il:cityid/3],[elyria_oh:cityid/3],[sioux city_ia:cityid/3],[bakersfield_ca:cityid/3],[niagara falls_ny:cityid/3],[thousand oaks_ca:cityid/3],[cranston_ri:cityid/3],[evansville_in:cityid/3],[trenton_nj:cityid/3],[redford_mi:cityid/3],[kenosha_wi:cityid/3],[durham_nc:cityid/3],[fremont_ca:cityid/3],[camden_nj:cityid/3],[miami beach_fl:cityid/3],[odessa_tx:cityid/3],[appleton_wi:cityid/3],[muncie_in:cityid/3],[overland park_ks:cityid/3],[green bay_wi:cityid/3],[topeka_ks:cityid/3],[edison_nj:cityid/3],[waterbury_ct:cityid/3],[hampton_va:cityid/3],[west valley_ut:cityid/3],[st. joseph_mo:cityid/3],[savannah_ga:cityid/3],[torrance_ca:cityid/3],[lakewood_ca:cityid/3],[casper_wy:cityid/3],[hammond_in:cityid/3],[irvington_nj:cityid/3],[abingdon_pa:cityid/3],[eugene_or:cityid/3],[joliet_il:cityid/3],[simi valley_ca:cityid/3],[west palm beach_fl:cityid/3],[dearborn_mi:cityid/3],[cherry hill_nj:cityid/3],[new haven_ct:cityid/3],[lawrence_ma:cityid/3],[chesapeake_va:cityid/3],[springfield_il:cityid/3],[erie_pa:cityid/3],[compton_ca:cityid/3],[levittown_ny:cityid/3],[aurora_il:cityid/3],[albany_ny:cityid/3],[elizabeth_nj:cityid/3],[pontiac_mi:cityid/3],[whittier_ca:cityid/3],[decatur_il:cityid/3],[pawtucket_ri:cityid/3],[koolaupoko_hi:cityid/3],[north little rock_ar:cityid/3],[lake charles_la:cityid/3],[fullerton_ca:cityid/3],[davenport_ia:cityid/3],[fall river_ma:cityid/3],[brockton_ma:cityid/3],[midland_tx:cityid/3],[new rochelle_ny:cityid/3],[lafayette_la:cityid/3],[parma_oh:cityid/3],[allentown_pa:cityid/3],[provo_ut:cityid/3],[upper darby_pa:cityid/3],[daly city_ca:cityid/3],[salinas_ca:cityid/3],[norwalk_ca:cityid/3],[roanoke_va:cityid/3],[pasadena_ca:cityid/3],[port arthur_tx:cityid/3],[newton_ma:cityid/3],[glendale_az:cityid/3],[tyler_tx:cityid/3],[new britain_ct:cityid/3],[escondido_ca:cityid/3],[elgin_il:cityid/3],[cambridge_ma:cityid/3],[lower merion_pa:cityid/3],[irondequoit_ny:cityid/3],[norman_ok:cityid/3],[portland_me:cityid/3],[taylor_mi:cityid/3],[albany_ga:cityid/3],[hamilton_oh:cityid/3],[saginaw_mi:cityid/3],[kenner_la:cityid/3],[canton_oh:cityid/3]}
+{[guadalupe peak:placeid/2]}
+{[iowa:stateid/2],[wisconsin:stateid/2],[kentucky:stateid/2],[indiana:stateid/2],[missouri:stateid/2]}
+{[8count]}
+{[947200count]}
+{[76685count]}
+{[san angelo_tx:cityid/3],[richardson_tx:cityid/3],[lubbock_tx:cityid/3],[amarillo_tx:cityid/3],[grand prairie_tx:cityid/3],[fort worth_tx:cityid/3],[houston_tx:cityid/3],[waco_tx:cityid/3],[beaumont_tx:cityid/3],[corpus christi_tx:cityid/3],[longview_tx:cityid/3],[arlington_tx:cityid/3],[irving_tx:cityid/3],[brownsville_tx:cityid/3],[mesquite_tx:cityid/3],[pasadena_tx:cityid/3],[austin_tx:cityid/3],[wichita falls_tx:cityid/3],[laredo_tx:cityid/3],[el paso_tx:cityid/3],[mcallen_tx:cityid/3],[abilene_tx:cityid/3],[garland_tx:cityid/3],[plano_tx:cityid/3],[odessa_tx:cityid/3],[dallas_tx:cityid/3],[midland_tx:cityid/3],[port arthur_tx:cityid/3],[san antonio_tx:cityid/3],[tyler_tx:cityid/3]}
+Example FAILED TO EXECUTE
+{[virginia:stateid/2],[maryland:stateid/2]}
+{[ohio:stateid/2],[indiana:stateid/2],[wisconsin:stateid/2]}
+{[texas:stateid/2]}
+{[1094000length]}
+{[california:stateid/2]}
+{[albany_ny:cityid/3]}
+Example FAILED TO EXECUTE
+{[67042count],[94201count],[61195count],[71462count],[138857count],[70525count],[90027count],[149230count],[70508count],[62762count],[98315count],[109943count],[91449count],[112560count],[118102count],[72496count],[84997count],[72331count],[67053count],[101261count],[73240count]}
+{[jefferson city_mo:cityid/3],[des moines_ia:cityid/3],[lincoln_ne:cityid/3],[bismarck_nd:cityid/3],[helena_mt:cityid/3],[pierre_sd:cityid/3]}
+Example FAILED TO EXECUTE
+{[345496count]}
+{[albuquerque_nm:cityid/3]}
+Example FAILED TO EXECUTE
+{[2520000count]}
+{[memphis_tn:cityid/3]}
+Example FAILED TO EXECUTE
+{[alaska:stateid/2]}
+{[3901length]}
+{[tennessee:stateid/2]}
+{[6.91e+11length^2]}
+{}
+{[phoenix_az:cityid/3]}
+{[georgia:stateid/2],[usa:countryid/2],[florida:stateid/2]}
+{[1461000count]}
+{[51count]}
+{[nevada:stateid/2],[utah:stateid/2],[colorado:stateid/2],[new mexico:stateid/2],[california:stateid/2]}
+{[ouachita river:placeid/2]}
+{[california:stateid/2]}
+{[2520000count]}
+Example FAILED TO EXECUTE
+{[seattle_wa:cityid/3]}
+{[1.45e+11length^2]}
+{[6.91e+11length^2]}
+{[638000count]}
+{[3.56e-06count/length^2],[7.84e-06count/length^2],[2.72e-05count/length^2],[3.46e-06count/length^2],[2.00e-05count/length^2],[2.07e-06count/length^2]}

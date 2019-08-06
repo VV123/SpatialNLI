@@ -13,12 +13,12 @@ import argparse
 maxlen0 = 20
 maxlen1 = 2
 embedding_dim = 300
-batch_size = 2
-train_batch_size = 2
+batch_size = 128
+train_batch_size = 128
 n_states = 300
 classes = 2
 train_needed = True
-train_epochs = 20
+train_epochs = 5
 # ----------------------------------------------------------------------------
 
 def matcher(text, key):
@@ -106,8 +106,7 @@ def train(sess, env, X0_data, X1_data, y_data, X0_valid, X1_valid, y_valid ,epoc
     n_sample = X0_data.shape[0]
     n_batch = int((n_sample+batch_size-1) / batch_size)
     for epoch in range(epochs):
-        #print('\nEpoch {0}/{1}'.format(epoch+1, epochs))
-
+        print('\nEpoch {0}/{1}'.format(epoch+1, epochs))
         if shuffle:
             print('\nShuffling data')
             ind = np.arange(n_sample)
@@ -117,7 +116,7 @@ def train(sess, env, X0_data, X1_data, y_data, X0_valid, X1_valid, y_valid ,epoc
             y_data = y_data[ind]
 
         for batch in range(n_batch):
-            #print(' batch {0}/{1}'.format(batch+1, n_batch))
+            print(' batch {0}/{1}'.format(batch+1, n_batch))
             sys.stdout.flush()
             start = batch * batch_size
             end = min(n_sample, start+batch_size)
@@ -130,7 +129,7 @@ def train(sess, env, X0_data, X1_data, y_data, X0_valid, X1_valid, y_valid ,epoc
         evaluate(sess, env, X0_valid, X1_valid, y_valid, batch_size=batch_size)
 
     print('\n Saving model')
-    #os.makedirs('model', exist_ok=True)
+    os.makedirs('model', exist_ok=True)
     env.saver.save(sess, 'model/{}'.format(name))
 
 def evaluate(sess, env, X0_data, X1_data, y_data, batch_size=128):
@@ -143,7 +142,7 @@ def evaluate(sess, env, X0_data, X1_data, y_data, batch_size=128):
     n_batch = int((n_sample+batch_size-1) / batch_size)
     loss, acc = 0, 0
     for batch in range(n_batch):
-        #print(' batch {0}/{1}'.format(batch+1, n_batch))
+        print(' batch {0}/{1}'.format(batch+1, n_batch))
         sys.stdout.flush()
         start = batch * batch_size
         end = min(n_sample, start+batch_size)
@@ -303,7 +302,7 @@ if __name__ == '__main__':
         sess.run(tf.local_variables_initializer())
 
         print('Load data start...')
-        X_train_qu, X_train_col, y_train, X_test_qu, X_test_col, y_test, X_dev_qu, X_dev_col, y_dev = load_data()
+        X_train_qu, X_train_col, y_train, X_test_qu, X_test_col, y_test, X_dev_qu, X_dev_col, y_dev = load_data(datapath='data/geo')
         print('Load data done...')
 
         if args.mode == 'train':

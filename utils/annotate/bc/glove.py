@@ -131,14 +131,14 @@ class Glove:
         print('\nSearch for the words')
         manager = multiprocessing.Manager()
         return_dict = manager.dict()
-	if batch_size is None:
-       	    batch_size=self.batch_size
-	if process_num is None:
+        if batch_size is None:
+            batch_size=self.batch_size
+        if process_num is None:
             process_num=self.process_num
         procs = [Process(target=_worker, 
-			args=(vecs[i*batch_size:min(i*batch_size+batch_size,vecs.shape[0])].reshape(-1,self.embedding_dim),
-			1,modelpath,i,return_dict)) 
-			for i in range(process_num) ]
+            args=(vecs[i*batch_size:min(i*batch_size+batch_size,vecs.shape[0])].reshape(-1,self.embedding_dim),
+            1,modelpath,i,return_dict)) 
+            for i in range(process_num) ]
         for p in procs: p.start()
         for p in procs: p.join()
         print("DONE")
