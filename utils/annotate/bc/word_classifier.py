@@ -1,3 +1,5 @@
+__author__ = 'Wenlu Wang'
+
 from __future__ import print_function
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
@@ -156,7 +158,7 @@ def evaluate(sess, env, X0_data, X1_data, y_data, batch_size=128):
                        env.y: y_data[start:end]})
         loss += batch_loss * cnt
         acc += batch_acc * cnt
-        #print(yy)
+        
     loss /= n_sample
     acc /= n_sample
 
