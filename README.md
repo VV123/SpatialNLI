@@ -20,6 +20,9 @@ SpatialNLI | [Spatial Comprehension](./README.spatial.md) | [Annotation](./READM
 
 ## Usage
 
+GeoQuery http://www.cs.utexas.edu/users/ml/nldata/geoquery.html
+
+RestQuery http://www.cs.utexas.edu/users/ml/nldata/restquery.html
 
 Build data
 
