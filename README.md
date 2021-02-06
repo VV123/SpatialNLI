@@ -22,7 +22,7 @@ SpatialNLI | [Spatial Comprehension](./README.spatial.md) | [Annotation](./READM
 
 GeoQuery https://worksheets.codalab.org/worksheets/0x50757a37779b485f89012e4ba03b6f4f
 
-RestQuery http://www.cs.utexas.edu/users/ml/nldata/restquery.html 
+<!-- RestQuery http://www.cs.utexas.edu/users/ml/nldata/restquery.html -->
 
 Build data
 
@@ -31,7 +31,7 @@ USAGE
   $ python utils/data_manager.py
 
 OPTIONS
-  --data   Choose from ['geo'. 'rest']
+  --data  geo
 ```
 
 Train 
@@ -42,7 +42,7 @@ USAGE
 
 OPTIONS
   --mode    Choose from [train, infer] 
-  --data    Choose from ['geo', 'rest']
+  --data    geo
 ```
 
 ## Evaluation
@@ -59,6 +59,7 @@ Geoquery
 | JL16          | 89.2%         |
 | **SpatialNLI**| [**90.4%**](https://drive.google.com/drive/folders/1GskZI_sPrDbp9yn6YjEtLmmEKtLvT85o)     |
 
+<!--
 Restaurant
 
 |Method        | Acc<sub>dm</sub>|
@@ -71,6 +72,6 @@ Geoquery + Rest
 |Method| Acc<sub>dm</sub>|
 |--------------|-----------------|
 |**SpatialNLI**|[**90.7**](https://drive.google.com/drive/folders/1ydwkOq-2TokSgL3EmjmJC3i7oYL07PrO)|
-
+-->
 
   
