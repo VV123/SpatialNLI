@@ -5,17 +5,14 @@
 
 ```
 python utils/annotate/annotate_geo.py # Geo880
-python utils/annotate/annotate_rest.py # Rest
 ```
 
 
 
 ## Augmentation by Shuffling
 
-
 ```
 python utils/augmentation/augmentation_geo.py # Geo880
-python utils/augmentation/augmentation_rest.py # Rest
 ```
 
 
