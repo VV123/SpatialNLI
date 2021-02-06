@@ -36,9 +36,11 @@ OPTIONS
   --data    geo
 ```
 
+<!--
 ## Evaluation
 
 We use denotation match accuracy Acc<sub>dm</sub> for evaluation.
+
 
 Geoquery
 
@@ -50,7 +52,7 @@ Geoquery
 | JL16          | 89.2%         |
 | **SpatialNLI**| [**90.4%**](https://drive.google.com/drive/folders/1GskZI_sPrDbp9yn6YjEtLmmEKtLvT85o)     |
 
-<!--
+
 Restaurant
 
 |Method        | Acc<sub>dm</sub>|
