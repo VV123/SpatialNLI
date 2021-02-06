@@ -76,6 +76,11 @@ For example, "How many rivers are found in `colorado` ?", to infer whether `colo
  
 
   [Warning] Make sure the size of the test set is divisible by batch_size while evaluation.
+  
+  
+## Table Linking
+
+   In extension/table_link.ipynb
 
 
   
