@@ -2,17 +2,8 @@ SpatialNLI | [Spatial Comprehension](./README.spatial.md) | [Annotation](./READM
 
 # SpatialNLI
 
-  This repository is the full implementation of our paper [SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension](https://arxiv.org/pdf/1908.10917.pdf) (ACM SIGSPATIAL 2019)
+  This repository is the full implementation of our paper [SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension](https://arxiv.org/pdf/1908.10917.pdf) (ACM SIGSPATIAL 2019) and its extension.
   
-  This repository uses a Tensorflow implementation of this [paper](https://arxiv.org/abs/1809.02649). If you find this code useful in your research, please cite
-```
-@article{wang2018transfer,
-  title={A transfer-learnable natural language interface for databases},
-  author={Wang, Wenlu and Tian, Yingtao and Xiong, Hongyu and Wang, Haixun and Ku, Wei-Shinn},
-  journal={arXiv preprint arXiv:1809.02649},
-  year={2018}
-}
-```
 
 ## Dependencies
   - TF 1.4
