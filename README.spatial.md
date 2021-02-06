@@ -1,4 +1,4 @@
-[SpatialNLI](./README.md) | Spatial Comprehension | [Annotation](./README.anno.md)
+[SpatialNLI](./README.md) | Spatial Comprehension 
 
 # SpatialNLI using Spatial-Comprehension
 Understanding Spatial Semantics based on context. (e.g., understand the type of a Point-of-Interest)
