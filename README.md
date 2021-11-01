@@ -2,7 +2,9 @@ SpatialNLI | [Spatial Comprehension](./README.spatial.md) <!-- | [Annotation](./
 
 # SpatialNLI
 
-  This repository is the full implementation of our paper [SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension](https://arxiv.org/pdf/1908.10917.pdf) (ACM SIGSPATIAL 2019) and its extension.
+  This repository is the full implementation of our paper [SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension](https://arxiv.org/pdf/1908.10917.pdf) (ACM SIGSPATIAL 2019).
+  
+  Please refer [Repo](https://github.com/jzl0166/SpatialNLI) for complete implementation.
   
 
 ## Dependencies
